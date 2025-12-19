@@ -1,6 +1,7 @@
 [build]
   command = "npm run build"
   publish = "dist"
+  functions = "netlify/functions" # Explicitly define functions directory under build
 
 [functions]
-  directory = "netlify/functions"
+  python_version = "3.9" # Specify Python version to ensure compatibility
