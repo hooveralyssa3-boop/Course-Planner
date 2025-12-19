@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import courseData from './data.json';
-import { Download, Save, BookOpen, FileText, Users, Activity, FileDigit, Trash2, FolderOpen } from 'lucide-react';
+import { Download, Save, BookOpen, FileText, Users, Activity, FileDigit, Trash2, FolderOpen, FileDown } from 'lucide-react';
+import { saveAs } from 'file-saver';
 
 const App = () => {
   const [selectedClass, setSelectedClass] = useState('');
@@ -8,6 +9,7 @@ const App = () => {
   const [savedCollections, setSavedCollections] = useState([]);
   const [collectionName, setCollectionName] = useState('');
   const [showSaveModal, setShowSaveModal] = useState(false);
+  const [isDownloading, setIsDownloading] = useState(false);
 
   // Load saved collections from local storage
   useEffect(() => {
@@ -83,6 +85,39 @@ const App = () => {
     linkElement.setAttribute('href', dataUri);
     linkElement.setAttribute('download', exportFileDefaultName);
     linkElement.click();
+  };
+
+  const handleDownloadDocx = async () => {
+    setIsDownloading(true);
+    try {
+      const response = await fetch('/.netlify/functions/generate-docx', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ plan: generatePlan }),
+      });
+
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+
+      const { fileContent, fileName } = await response.json();
+      const decodedFile = atob(fileContent);
+      const arrayBuffer = new ArrayBuffer(decodedFile.length);
+      const uint8Array = new Uint8Array(arrayBuffer);
+      for (let i = 0; i < decodedFile.length; i++) {
+        uint8Array[i] = decodedFile.charCodeAt(i);
+      }
+      const blob = new Blob([uint8Array], { type: 'application/vnd.openxmlformats-officedocument.wordprocessingml.document' });
+      saveAs(blob, fileName);
+
+    } catch (error) {
+      console.error('Error downloading DOCX:', error);
+      alert('Failed to download Word document. Please try again.');
+    } finally {
+      setIsDownloading(false);
+    }
   };
 
   const getIcon = (type) => {
@@ -188,7 +223,14 @@ const App = () => {
                         onClick={exportData}
                         className="flex items-center gap-2 px-5 py-2 bg-indigo-600 text-white rounded-md hover:bg-indigo-700 text-base font-medium shadow-sm"
                     >
-                        <Download size={18} /> Export List
+                        <Download size={18} /> Export List (JSON)
+                    </button>
+                    <button 
+                        onClick={handleDownloadDocx}
+                        className="flex items-center gap-2 px-5 py-2 bg-green-600 text-white rounded-md hover:bg-green-700 text-base font-medium shadow-sm"
+                        disabled={isDownloading}
+                    >
+                        {isDownloading ? 'Generating...' : <><FileDown size={18} /> Export (Word)</>}
                     </button>
                 </div>
               </div>
