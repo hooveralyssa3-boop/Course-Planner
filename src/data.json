@@ -7,16 +7,8 @@
       "title": "Professional Nursing Practice",
       "related_resources": [
         {
-          "id": "8df31123",
-          "title": "Student Tips for Success (Nursing Process), p. 3",
-          "type": "The Notebook",
-          "reason": "Direct Map",
-          "score": 100,
-          "description": ""
-        },
-        {
-          "id": "57198e9d",
-          "title": "Strategies for Prioritization Power, p. 4",
+          "id": "Bas-1-nb-0",
+          "title": "Student Tips for Success, p. 3",
           "type": "The Notebook",
           "reason": "Direct Map",
           "score": 100,
@@ -24,7 +16,7 @@
         },
         {
           "id": "b51c7bc7",
-          "title": "Ch. 01: The NurseThink\u00ae Way",
+          "title": "Ch. 01: The NurseThink® Way",
           "type": "CCC Page",
           "reason": "Direct Map",
           "score": 100,
@@ -71,7 +63,7 @@
       "related_resources": [
         {
           "id": "e4040a71",
-          "title": "Client Preference and Profile; Culture; Diversity, p. 81\u201385",
+          "title": "Client Preference and Profile; Culture; Diversity, p. 81–85",
           "type": "The Notebook",
           "reason": "Direct Map",
           "score": 100,
@@ -94,8 +86,16 @@
       "title": "Stress and Inflammatory Responses",
       "related_resources": [
         {
-          "id": "c895bef2",
-          "title": "Adaptation: Stress & Coping; Protection: Inflammation, p. 11, 215",
+          "id": "Bas-5-nb-1",
+          "title": "Protection: Inflammation, p. 215",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "Bas-5-nb-0",
+          "title": "Adaptation: Stress & Coping, p. 11",
           "type": "The Notebook",
           "reason": "Direct Map",
           "score": 100,
@@ -132,8 +132,8 @@
       "title": "Management of the Older Adult Patient",
       "related_resources": [
         {
-          "id": "4b229e69",
-          "title": "Elder Abuse; Dementia and Alzheimer\u2019s, p. 25, 107",
+          "id": "Bas-8-nb-0",
+          "title": "Dementia and Alzheimer's, p. 107",
           "type": "The Notebook",
           "reason": "Direct Map",
           "score": 100,
@@ -145,7 +145,7 @@
           "type": "CCC Page",
           "reason": "Direct Map",
           "score": 100,
-          "description": "Management of elder abuse, dementia, and Alzheimer\u2019s disease."
+          "description": "Management of elder abuse, dementia, and Alzheimer’s disease."
         }
       ]
     },
@@ -156,8 +156,8 @@
       "title": "Pain Management",
       "related_resources": [
         {
-          "id": "7282beeb",
-          "title": "Comfort: Pain; Acute Pain; Chronic Pain, p. 111\u2013115",
+          "id": "Bas-9-nb-0",
+          "title": "Comfort: Pain & Tissue Integrity, p. 111–115",
           "type": "The Notebook",
           "reason": "Direct Map",
           "score": 100,
@@ -180,8 +180,8 @@
       "title": "Fluid and Electrolytes",
       "related_resources": [
         {
-          "id": "be77bffe",
-          "title": "Homeostasis; Hypo/Hyperkalemia; Dehydration, p. 141\u2013163",
+          "id": "Bas-10-nb-0",
+          "title": "Homeostasis: Acid-Base & Electrolytes, p. 141–163",
           "type": "The Notebook",
           "reason": "Direct Map",
           "score": 100,
@@ -220,8 +220,16 @@
       "title": "Shock, Sepsis, and Multiple Organ Dysfunction Syndrome",
       "related_resources": [
         {
-          "id": "f5f613d0",
-          "title": "Circulation: Perfusion (Shock Concepts), p. 49",
+          "id": "Bas-11-nb-1",
+          "title": "Shock/Perfusion, p. 75–79",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "Bas-11-nb-0",
+          "title": "Circulation: Perfusion (Shock), p. 45",
           "type": "The Notebook",
           "reason": "Direct Map",
           "score": 100,
@@ -345,7 +353,15 @@
       "title": "Chest and Lower Respiratory Tract Disorders",
       "related_resources": [
         {
-          "id": "33b69193",
+          "id": "Bas-19-nb-1",
+          "title": "Tuberculosis, p. 261",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "Bas-19-nb-0",
           "title": "Pneumonia, p. 259",
           "type": "The Notebook",
           "reason": "Direct Map",
@@ -385,8 +401,16 @@
       "title": "Chronic Pulmonary Disease",
       "related_resources": [
         {
-          "id": "fdb1bb69",
-          "title": "Asthma; Chronic Obstructive Pulmonary Disease, p. 371\u2013373",
+          "id": "Bas-20-nb-1",
+          "title": "COPD, p. 373",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "Bas-20-nb-0",
+          "title": "Asthma, p. 371",
           "type": "The Notebook",
           "reason": "Direct Map",
           "score": 100,
@@ -456,8 +480,16 @@
       "title": "Coronary Vascular Disorders",
       "related_resources": [
         {
-          "id": "281a223f",
-          "title": "Acute Coronary Syndrome; Myocardial Infarction, p. 59, 69",
+          "id": "Bas-23-nb-1",
+          "title": "Myocardial Infarction, p. 69",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "Bas-23-nb-0",
+          "title": "Acute Coronary Syndrome, p. 59",
           "type": "The Notebook",
           "reason": "Direct Map",
           "score": 100,
@@ -640,7 +672,7 @@
       "related_resources": [
         {
           "id": "61883b14",
-          "title": "Iron Deficiency Anemia; Sickle Cell Anemia, p. 271\u2013275",
+          "title": "Iron Deficiency Anemia; Sickle Cell Anemia, p. 271–275",
           "type": "The Notebook",
           "reason": "Direct Map",
           "score": 100,
@@ -899,8 +931,16 @@
       "title": "Intestinal and Rectal Disorders",
       "related_resources": [
         {
-          "id": "93fc9456",
-          "title": "Intestinal Obstruction; Inflammatory Bowel Disease, p. 325, 331",
+          "id": "Bas-41-nb-1",
+          "title": "Gastrointestinal Obstruction, p. 325",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "Bas-41-nb-0",
+          "title": "Crohn's, p. 321",
           "type": "The Notebook",
           "reason": "Direct Map",
           "score": 100,
@@ -912,7 +952,7 @@
           "type": "CCC Page",
           "reason": "Direct Map",
           "score": 100,
-          "description": "Management of Crohn\u2019s disease and intestinal obstructions."
+          "description": "Management of Crohn’s disease and intestinal obstructions."
         },
         {
           "id": "2c851a98",
@@ -1003,16 +1043,16 @@
       "title": "Endocrine Disorders",
       "related_resources": [
         {
-          "id": "c550cfd7",
-          "title": "Addison\u2019s; Cushing\u2019s; Hyper/Hypothyroidism, p. 317\u2013319",
+          "id": "Bas-45-nb-1",
+          "title": "Hyperthyroid, p. 351",
           "type": "The Notebook",
           "reason": "Direct Map",
           "score": 100,
           "description": ""
         },
         {
-          "id": "d7364a2f",
-          "title": "Diabetes Insipidus; SIADH, p. 347, 349",
+          "id": "Bas-45-nb-0",
+          "title": "Addison's Disease, p. 317",
           "type": "The Notebook",
           "reason": "Direct Map",
           "score": 100,
@@ -1051,8 +1091,8 @@
       "title": "Diabetes",
       "related_resources": [
         {
-          "id": "7eec5c0a",
-          "title": "Diabetes Mellitus (Insulin vs Non-Insulin), p. 335\u2013337",
+          "id": "Bas-46-nb-0",
+          "title": "Insulin Dependent Diabetes Mellitus, p. 335–341",
           "type": "The Notebook",
           "reason": "Direct Map",
           "score": 100,
@@ -1152,7 +1192,16 @@
       "class": "Basic Adult Healthcare",
       "number": "50",
       "title": "Female Physiologic Processes",
-      "related_resources": []
+      "related_resources": [
+        {
+          "id": "Bas-50-nb-0",
+          "title": "Sexuality: Reproduction, p. 381",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        }
+      ]
     },
     {
       "id": "Bas-51",
@@ -1308,7 +1357,7 @@
       "related_resources": [
         {
           "id": "58ca61ca",
-          "title": "Embolic Stroke; Hemorrhagic Stroke, p. 53\u201355",
+          "title": "Embolic Stroke; Hemorrhagic Stroke, p. 53–55",
           "type": "The Notebook",
           "reason": "Direct Map",
           "score": 100,
@@ -1346,7 +1395,7 @@
       "related_resources": [
         {
           "id": "f0230fd5",
-          "title": "Parkinson\u2019s Disease, p. 191",
+          "title": "Parkinson’s Disease, p. 191",
           "type": "The Notebook",
           "reason": "Direct Map",
           "score": 100,
@@ -1358,7 +1407,7 @@
           "type": "CCC Page",
           "reason": "Direct Map",
           "score": 100,
-          "description": "Nursing priorities for Parkinson\u2019s disease, addressing mobility and safety."
+          "description": "Nursing priorities for Parkinson’s disease, addressing mobility and safety."
         }
       ]
     },
@@ -1606,7 +1655,7 @@
       "related_resources": [
         {
           "id": "b4fbf859",
-          "title": "Concept: Protection \u2013 Immunity, Inflammation, Infection, p. 215",
+          "title": "Concept: Protection – Immunity, Inflammation, Infection, p. 215",
           "type": "The Notebook",
           "reason": "Direct Map",
           "score": 100,
@@ -1630,7 +1679,7 @@
       "related_resources": [
         {
           "id": "7a671c97",
-          "title": "Cushing\u2019s Syndrome (Steroid Excess/Management), p. 319",
+          "title": "Cushing’s Syndrome (Steroid Excess/Management), p. 319",
           "type": "The Notebook",
           "reason": "Direct Map",
           "score": 100,
@@ -1794,7 +1843,7 @@
       "related_resources": [
         {
           "id": "f9f72ee8",
-          "title": "Parkinson\u2019s Disease, p. 191",
+          "title": "Parkinson’s Disease, p. 191",
           "type": "The Notebook",
           "reason": "Direct Map",
           "score": 100,
@@ -1833,7 +1882,7 @@
       "related_resources": [
         {
           "id": "1256ecf3",
-          "title": "Concept: Comfort \u2013 Pain, Tissue Integrity, p. 111",
+          "title": "Concept: Comfort – Pain, Tissue Integrity, p. 111",
           "type": "The Notebook",
           "reason": "Direct Map",
           "score": 100,
@@ -1978,7 +2027,7 @@
       "related_resources": [
         {
           "id": "bc3bdd91",
-          "title": "Addison\u2019s Syndrome/Disease, p. 317",
+          "title": "Addison’s Syndrome/Disease, p. 317",
           "type": "The Notebook",
           "reason": "Direct Map",
           "score": 100,
@@ -1986,7 +2035,7 @@
         },
         {
           "id": "f96793fb",
-          "title": "Cushing\u2019s Syndrome/Disease, p. 319",
+          "title": "Cushing’s Syndrome/Disease, p. 319",
           "type": "The Notebook",
           "reason": "Direct Map",
           "score": 100,
@@ -2050,7 +2099,7 @@
       "related_resources": [
         {
           "id": "4c7d52f1",
-          "title": "Diabetes Mellitus\u2014Insulin Dependent, p. 335",
+          "title": "Diabetes Mellitus—Insulin Dependent, p. 335",
           "type": "The Notebook",
           "reason": "Direct Map",
           "score": 100,
@@ -2058,7 +2107,7 @@
         },
         {
           "id": "edd778a1",
-          "title": "Diabetes Mellitus\u2014Non-Insulin Dependent, p. 337",
+          "title": "Diabetes Mellitus—Non-Insulin Dependent, p. 337",
           "type": "The Notebook",
           "reason": "Direct Map",
           "score": 100,
@@ -2166,7 +2215,7 @@
         },
         {
           "id": "476fa04b",
-          "title": "NurseThink\u00ae Quick: Digoxin Toxicity, p. 66",
+          "title": "NurseThink® Quick: Digoxin Toxicity, p. 66",
           "type": "The Notebook",
           "reason": "Direct Map",
           "score": 100,
@@ -2558,7 +2607,7 @@
     {
       "id": "e4040a71",
       "type": "The Notebook",
-      "title": "Client Preference and Profile; Culture; Diversity, p. 81\u201385",
+      "title": "Client Preference and Profile; Culture; Diversity, p. 81–85",
       "class": "Basic Adult Healthcare"
     },
     {
@@ -2570,19 +2619,19 @@
     {
       "id": "4b229e69",
       "type": "The Notebook",
-      "title": "Elder Abuse; Dementia and Alzheimer\u2019s, p. 25, 107",
+      "title": "Elder Abuse; Dementia and Alzheimer’s, p. 25, 107",
       "class": "Basic Adult Healthcare"
     },
     {
       "id": "7282beeb",
       "type": "The Notebook",
-      "title": "Comfort: Pain; Acute Pain; Chronic Pain, p. 111\u2013115",
+      "title": "Comfort: Pain; Acute Pain; Chronic Pain, p. 111–115",
       "class": "Basic Adult Healthcare"
     },
     {
       "id": "be77bffe",
       "type": "The Notebook",
-      "title": "Homeostasis; Hypo/Hyperkalemia; Dehydration, p. 141\u2013163",
+      "title": "Homeostasis; Hypo/Hyperkalemia; Dehydration, p. 141–163",
       "class": "Basic Adult Healthcare"
     },
     {
@@ -2612,7 +2661,7 @@
     {
       "id": "fdb1bb69",
       "type": "The Notebook",
-      "title": "Asthma; Chronic Obstructive Pulmonary Disease, p. 371\u2013373",
+      "title": "Asthma; Chronic Obstructive Pulmonary Disease, p. 371–373",
       "class": "Basic Adult Healthcare"
     },
     {
@@ -2648,7 +2697,7 @@
     {
       "id": "61883b14",
       "type": "The Notebook",
-      "title": "Iron Deficiency Anemia; Sickle Cell Anemia, p. 271\u2013275",
+      "title": "Iron Deficiency Anemia; Sickle Cell Anemia, p. 271–275",
       "class": "Basic Adult Healthcare"
     },
     {
@@ -2702,7 +2751,7 @@
     {
       "id": "c550cfd7",
       "type": "The Notebook",
-      "title": "Addison\u2019s; Cushing\u2019s; Hyper/Hypothyroidism, p. 317\u2013319",
+      "title": "Addison’s; Cushing’s; Hyper/Hypothyroidism, p. 317–319",
       "class": "Basic Adult Healthcare"
     },
     {
@@ -2714,7 +2763,7 @@
     {
       "id": "7eec5c0a",
       "type": "The Notebook",
-      "title": "Diabetes Mellitus (Insulin vs Non-Insulin), p. 335\u2013337",
+      "title": "Diabetes Mellitus (Insulin vs Non-Insulin), p. 335–337",
       "class": "Basic Adult Healthcare"
     },
     {
@@ -2756,13 +2805,13 @@
     {
       "id": "58ca61ca",
       "type": "The Notebook",
-      "title": "Embolic Stroke; Hemorrhagic Stroke, p. 53\u201355",
+      "title": "Embolic Stroke; Hemorrhagic Stroke, p. 53–55",
       "class": "Basic Adult Healthcare"
     },
     {
       "id": "f0230fd5",
       "type": "The Notebook",
-      "title": "Parkinson\u2019s Disease, p. 191",
+      "title": "Parkinson’s Disease, p. 191",
       "class": "Basic Adult Healthcare"
     },
     {
@@ -2798,13 +2847,13 @@
     {
       "id": "b4fbf859",
       "type": "The Notebook",
-      "title": "Concept: Protection \u2013 Immunity, Inflammation, Infection, p. 215",
+      "title": "Concept: Protection – Immunity, Inflammation, Infection, p. 215",
       "class": "Pharmacology"
     },
     {
       "id": "7a671c97",
       "type": "The Notebook",
-      "title": "Cushing\u2019s Syndrome (Steroid Excess/Management), p. 319",
+      "title": "Cushing’s Syndrome (Steroid Excess/Management), p. 319",
       "class": "Pharmacology"
     },
     {
@@ -2828,13 +2877,13 @@
     {
       "id": "f9f72ee8",
       "type": "The Notebook",
-      "title": "Parkinson\u2019s Disease, p. 191",
+      "title": "Parkinson’s Disease, p. 191",
       "class": "Pharmacology"
     },
     {
       "id": "1256ecf3",
       "type": "The Notebook",
-      "title": "Concept: Comfort \u2013 Pain, Tissue Integrity, p. 111",
+      "title": "Concept: Comfort – Pain, Tissue Integrity, p. 111",
       "class": "Pharmacology"
     },
     {
@@ -2858,13 +2907,13 @@
     {
       "id": "bc3bdd91",
       "type": "The Notebook",
-      "title": "Addison\u2019s Syndrome/Disease, p. 317",
+      "title": "Addison’s Syndrome/Disease, p. 317",
       "class": "Pharmacology"
     },
     {
       "id": "f96793fb",
       "type": "The Notebook",
-      "title": "Cushing\u2019s Syndrome/Disease, p. 319",
+      "title": "Cushing’s Syndrome/Disease, p. 319",
       "class": "Pharmacology"
     },
     {
@@ -2888,13 +2937,13 @@
     {
       "id": "4c7d52f1",
       "type": "The Notebook",
-      "title": "Diabetes Mellitus\u2014Insulin Dependent, p. 335",
+      "title": "Diabetes Mellitus—Insulin Dependent, p. 335",
       "class": "Pharmacology"
     },
     {
       "id": "edd778a1",
       "type": "The Notebook",
-      "title": "Diabetes Mellitus\u2014Non-Insulin Dependent, p. 337",
+      "title": "Diabetes Mellitus—Non-Insulin Dependent, p. 337",
       "class": "Pharmacology"
     },
     {
@@ -2912,7 +2961,7 @@
     {
       "id": "476fa04b",
       "type": "The Notebook",
-      "title": "NurseThink\u00ae Quick: Digoxin Toxicity, p. 66",
+      "title": "NurseThink® Quick: Digoxin Toxicity, p. 66",
       "class": "Pharmacology"
     },
     {
@@ -2990,7 +3039,7 @@
     {
       "id": "b51c7bc7",
       "type": "CCC Page",
-      "title": "Ch. 01: The NurseThink\u00ae Way",
+      "title": "Ch. 01: The NurseThink® Way",
       "description": "Focuses on critical thinking, the nursing process, and best practice study strategies.",
       "class": "Basic Adult Healthcare"
     },
@@ -3019,7 +3068,7 @@
       "id": "dd8574aa",
       "type": "CCC Page",
       "title": "Ch. 17: Cognition",
-      "description": "Management of elder abuse, dementia, and Alzheimer\u2019s disease.",
+      "description": "Management of elder abuse, dementia, and Alzheimer’s disease.",
       "class": "Basic Adult Healthcare"
     },
     {
@@ -3131,7 +3180,7 @@
       "id": "a3c1167b",
       "type": "CCC Page",
       "title": "Ch. 11: Nutrition",
-      "description": "Management of Crohn\u2019s disease and intestinal obstructions.",
+      "description": "Management of Crohn’s disease and intestinal obstructions.",
       "class": "Basic Adult Healthcare"
     },
     {
@@ -3187,7 +3236,7 @@
       "id": "1a62993b",
       "type": "CCC Page",
       "title": "Ch. 13: Movement",
-      "description": "Nursing priorities for Parkinson\u2019s disease, addressing mobility and safety.",
+      "description": "Nursing priorities for Parkinson’s disease, addressing mobility and safety.",
       "class": "Basic Adult Healthcare"
     },
     {
