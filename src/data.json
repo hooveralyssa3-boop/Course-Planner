@@ -1,0 +1,3803 @@
+{
+  "chapters": [
+    {
+      "id": "Bas-1",
+      "class": "Basic Adult Healthcare",
+      "number": "1",
+      "title": "Professional Nursing Practice",
+      "related_resources": [
+        {
+          "id": "8df31123",
+          "title": "Student Tips for Success (Nursing Process), p. 3",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "57198e9d",
+          "title": "Strategies for Prioritization Power, p. 4",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "b51c7bc7",
+          "title": "Ch. 01: The NurseThink\u00ae Way",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Focuses on critical thinking, the nursing process, and best practice study strategies."
+        }
+      ]
+    },
+    {
+      "id": "Bas-2",
+      "class": "Basic Adult Healthcare",
+      "number": "2",
+      "title": "Medical-Surgical Nursing",
+      "related_resources": []
+    },
+    {
+      "id": "Bas-3",
+      "class": "Basic Adult Healthcare",
+      "number": "3",
+      "title": "Health Education and Health Promotion",
+      "related_resources": [
+        {
+          "id": "47a46a5a",
+          "title": "Health Promotion, p. 99",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "b1115343",
+          "title": "Ch. 04: Unfolding Concepts II",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Strategies for lifestyle choices, risk reduction, and client education."
+        }
+      ]
+    },
+    {
+      "id": "Bas-4",
+      "class": "Basic Adult Healthcare",
+      "number": "4",
+      "title": "Adult Health and Physical, Nutritional, and Cultural Assessment",
+      "related_resources": [
+        {
+          "id": "e4040a71",
+          "title": "Client Preference and Profile; Culture; Diversity, p. 81\u201385",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "e3817b1b",
+          "title": "Ch. 02: Next Gen Clinical Judgment",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Covers cultural, spiritual, and developmental assessments."
+        }
+      ]
+    },
+    {
+      "id": "Bas-5",
+      "class": "Basic Adult Healthcare",
+      "number": "5",
+      "title": "Stress and Inflammatory Responses",
+      "related_resources": [
+        {
+          "id": "c895bef2",
+          "title": "Adaptation: Stress & Coping; Protection: Inflammation, p. 11, 215",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "4042415b",
+          "title": "Ch. 15: Adaptation",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Addresses stress, coping mechanisms, and physiological immunity/inflammation."
+        }
+      ]
+    },
+    {
+      "id": "Bas-6",
+      "class": "Basic Adult Healthcare",
+      "number": "6",
+      "title": "Genetics and Genomics in Nursing",
+      "related_resources": []
+    },
+    {
+      "id": "Bas-7",
+      "class": "Basic Adult Healthcare",
+      "number": "7",
+      "title": "Disability and Chronic Illness",
+      "related_resources": []
+    },
+    {
+      "id": "Bas-8",
+      "class": "Basic Adult Healthcare",
+      "number": "8",
+      "title": "Management of the Older Adult Patient",
+      "related_resources": [
+        {
+          "id": "4b229e69",
+          "title": "Elder Abuse; Dementia and Alzheimer\u2019s, p. 25, 107",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "dd8574aa",
+          "title": "Ch. 17: Cognition",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Management of elder abuse, dementia, and Alzheimer\u2019s disease."
+        }
+      ]
+    },
+    {
+      "id": "Bas-9",
+      "class": "Basic Adult Healthcare",
+      "number": "9",
+      "title": "Pain Management",
+      "related_resources": [
+        {
+          "id": "7282beeb",
+          "title": "Comfort: Pain; Acute Pain; Chronic Pain, p. 111\u2013115",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "74943731",
+          "title": "Ch. 14: Comfort",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Priorities for acute and chronic pain management."
+        }
+      ]
+    },
+    {
+      "id": "Bas-10",
+      "class": "Basic Adult Healthcare",
+      "number": "10",
+      "title": "Fluid and Electrolytes",
+      "related_resources": [
+        {
+          "id": "be77bffe",
+          "title": "Homeostasis; Hypo/Hyperkalemia; Dehydration, p. 141\u2013163",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "85b13412",
+          "title": "Ch. 08: Homeostasis",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Regulation of acid-base balance, electrolytes, and fluid volume."
+        },
+        {
+          "id": "faca42cf",
+          "title": "Simon Andrews",
+          "type": "CJ Sim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "68-year-old male presenting with signs of severe dehydration, including poor skin turgor and dark urine."
+        },
+        {
+          "id": "6fa522e2",
+          "title": "Fluids and Electrolyte Imbalance",
+          "type": "Interactive Case Study",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Regulation of body fluids, acid-base balance, and electrolyte gain/loss."
+        }
+      ]
+    },
+    {
+      "id": "Bas-11",
+      "class": "Basic Adult Healthcare",
+      "number": "11",
+      "title": "Shock, Sepsis, and Multiple Organ Dysfunction Syndrome",
+      "related_resources": [
+        {
+          "id": "f5f613d0",
+          "title": "Circulation: Perfusion (Shock Concepts), p. 49",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "2c5242b1",
+          "title": "Ch. 06: Circulation",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Priorities for cardiogenic, hypovolemic, and septic shock."
+        },
+        {
+          "id": "155292b8",
+          "title": "Ashley Johnson",
+          "type": "CJ Sim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "44-year-old female in the Stepdown Unit being monitored for septic shock following a severe infection."
+        },
+        {
+          "id": "4f8139c3",
+          "title": "Jennifer Hoffman",
+          "type": "vSim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "A 33-year-old female presenting in severe respiratory distress with an acute asthma exacerbation."
+        }
+      ]
+    },
+    {
+      "id": "Bas-12",
+      "class": "Basic Adult Healthcare",
+      "number": "12",
+      "title": "Management of Patients with Oncologic Disorders",
+      "related_resources": []
+    },
+    {
+      "id": "Bas-13",
+      "class": "Basic Adult Healthcare",
+      "number": "13",
+      "title": "Palliative and End-of-Life Care",
+      "related_resources": []
+    },
+    {
+      "id": "Bas-14",
+      "class": "Basic Adult Healthcare",
+      "number": "14",
+      "title": "Preoperative Nursing Management",
+      "related_resources": [
+        {
+          "id": "c0d881ff",
+          "title": "Safety: Postoperative, p. 439",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "Bas-15",
+      "class": "Basic Adult Healthcare",
+      "number": "15",
+      "title": "Intraoperative Nursing Management",
+      "related_resources": []
+    },
+    {
+      "id": "Bas-16",
+      "class": "Basic Adult Healthcare",
+      "number": "16",
+      "title": "Postoperative Nursing Management",
+      "related_resources": [
+        {
+          "id": "c0d881ff",
+          "title": "Safety: Postoperative, p. 439",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "Bas-17",
+      "class": "Basic Adult Healthcare",
+      "number": "17",
+      "title": "Assessment of Respiratory Function",
+      "related_resources": [
+        {
+          "id": "81ce08b6",
+          "title": "Ch. 09: Respiration",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Care for pneumonia, asthma, and chronic obstructive pulmonary disease."
+        }
+      ]
+    },
+    {
+      "id": "Bas-18",
+      "class": "Basic Adult Healthcare",
+      "number": "18",
+      "title": "Upper Respiratory Tract Disorders",
+      "related_resources": [
+        {
+          "id": "977cd391",
+          "title": "Epistaxis, p. 251",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "Bas-19",
+      "class": "Basic Adult Healthcare",
+      "number": "19",
+      "title": "Chest and Lower Respiratory Tract Disorders",
+      "related_resources": [
+        {
+          "id": "33b69193",
+          "title": "Pneumonia, p. 259",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "98119197",
+          "title": "Walter McCaffery",
+          "type": "CJ Sim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "69-year-old male diagnosed with pulmonary tuberculosis; requires isolation and long-term anti-TB drug therapy."
+        },
+        {
+          "id": "9459ee67",
+          "title": "Pneumonia",
+          "type": "Interactive Case Study",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Managing infectious pulmonary disorders and gas exchange."
+        },
+        {
+          "id": "f7da3398",
+          "title": "Kenneth Bronson",
+          "type": "vSim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "A 27-year-old male with fever, difficulty breathing, and chest tightness; diagnosed with right lower lobe pneumonia."
+        }
+      ]
+    },
+    {
+      "id": "Bas-20",
+      "class": "Basic Adult Healthcare",
+      "number": "20",
+      "title": "Chronic Pulmonary Disease",
+      "related_resources": [
+        {
+          "id": "fdb1bb69",
+          "title": "Asthma; Chronic Obstructive Pulmonary Disease, p. 371\u2013373",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "81ce08b6",
+          "title": "Ch. 09: Respiration",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Care for pneumonia, asthma, and chronic obstructive pulmonary disease."
+        },
+        {
+          "id": "2f0e99ea",
+          "title": "Tyrone Baker",
+          "type": "CJ Sim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "33-year-old male with a history of chronic asthma presenting with acute wheezing and shortness of breath."
+        },
+        {
+          "id": "c7c31109",
+          "title": "Chronic Obstructive Pulmonary Disease (COPD)",
+          "type": "Interactive Case Study",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Managing \"pink puffers\" vs. \"blue bloaters\" and respiratory depression."
+        },
+        {
+          "id": "1231952b",
+          "title": "Vincent Brody",
+          "type": "vSim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "A 67-year-old male smoker presenting with wheezing and a productive cough due to a COPD exacerbation."
+        }
+      ]
+    },
+    {
+      "id": "Bas-21",
+      "class": "Basic Adult Healthcare",
+      "number": "21",
+      "title": "Assessment of Cardiovascular Function",
+      "related_resources": [
+        {
+          "id": "5d4963fe",
+          "title": "Ch. 06: Circulation",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Management of ACS, heart failure, and myocardial infarction."
+        }
+      ]
+    },
+    {
+      "id": "Bas-22",
+      "class": "Basic Adult Healthcare",
+      "number": "22",
+      "title": "Arrhythmias and Conduction Problems",
+      "related_resources": []
+    },
+    {
+      "id": "Bas-23",
+      "class": "Basic Adult Healthcare",
+      "number": "23",
+      "title": "Coronary Vascular Disorders",
+      "related_resources": [
+        {
+          "id": "281a223f",
+          "title": "Acute Coronary Syndrome; Myocardial Infarction, p. 59, 69",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "ad633d5b",
+          "title": "Angina; Myocardial Infarction",
+          "type": "Interactive Case Study",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Utilizing \"MONAH\" and managing acute coronary syndrome."
+        },
+        {
+          "id": "e2e90851",
+          "title": "Carl Shapiro",
+          "type": "vSim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "A 54-year-old male with a history of hypertension presenting with chest pain and diaphoresis; diagnosed with NSTEMI."
+        }
+      ]
+    },
+    {
+      "id": "Bas-24",
+      "class": "Basic Adult Healthcare",
+      "number": "24",
+      "title": "Structural, Infectious, and Inflammatory Cardiac Disorders",
+      "related_resources": []
+    },
+    {
+      "id": "Bas-25",
+      "class": "Basic Adult Healthcare",
+      "number": "25",
+      "title": "Complications from Heart Disease",
+      "related_resources": [
+        {
+          "id": "359bfa03",
+          "title": "Heart Failure, p. 65",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "5d4963fe",
+          "title": "Ch. 06: Circulation",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Management of ACS, heart failure, and myocardial infarction."
+        },
+        {
+          "id": "ae713c70",
+          "title": "Jedidiah Billings",
+          "type": "CJ Sim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "60-year-old male with heart failure experiencing peripheral edema and orthopnea."
+        },
+        {
+          "id": "fa40edd2",
+          "title": "Heart Failure; Pulmonary Edema",
+          "type": "Interactive Case Study",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Priorities for \"UNLOAD FAST\" and decreasing afterload."
+        }
+      ]
+    },
+    {
+      "id": "Bas-26",
+      "class": "Basic Adult Healthcare",
+      "number": "26",
+      "title": "Vascular Disorders / Peripheral Circulation",
+      "related_resources": [
+        {
+          "id": "ba8823bd",
+          "title": "Pulmonary Embolism; Deep Vein Thrombosis, p. 57, 73",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "12089e86",
+          "title": "Lorna Anderson",
+          "type": "CJ Sim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "68-year-old female on the Medical Unit with a suspected deep vein thrombosis in her left lower extremity."
+        },
+        {
+          "id": "6be155bf",
+          "title": "Chronic Obstructive Pulmonary Disease and Peripheral Vascular Disease",
+          "type": "Interactive Case Study",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Managing deep vein thrombosis (DVT) and arterial clotting risks."
+        },
+        {
+          "id": "9aa4d5b6",
+          "title": "Vernon Watkins",
+          "type": "vSim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "A 69-year-old male POD 4 following a left hemicolectomy; primary clinical risk is a pulmonary embolism."
+        }
+      ]
+    },
+    {
+      "id": "Bas-27",
+      "class": "Basic Adult Healthcare",
+      "number": "27",
+      "title": "Hypertension",
+      "related_resources": [
+        {
+          "id": "52e68dbb",
+          "title": "Hypertension, p. 67",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "bbdeb6b3",
+          "title": "Ch. 06: Circulation",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Monitoring for complications like stroke or heart failure."
+        },
+        {
+          "id": "96414fbb",
+          "title": "Hypertension",
+          "type": "Interactive Case Study",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Monitoring for complications like stroke or heart failure."
+        }
+      ]
+    },
+    {
+      "id": "Bas-28",
+      "class": "Basic Adult Healthcare",
+      "number": "28",
+      "title": "Hematologic Assessment & Modalities",
+      "related_resources": [
+        {
+          "id": "3f25ba18",
+          "title": "Safety: Blood Administration, p. 421",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "177f43d1",
+          "title": "Ch. 02: Next Gen Clinical Judgment",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Focuses on safe blood administration, pre-transfusion assessments, and monitoring for transfusion reactions."
+        },
+        {
+          "id": "046878f2",
+          "title": "Lloyd Bennett",
+          "type": "vSim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "A 76-year-old male POD 1 following a left hip arthroplasty requiring a blood transfusion for low hemoglobin."
+        }
+      ]
+    },
+    {
+      "id": "Bas-29",
+      "class": "Basic Adult Healthcare",
+      "number": "29",
+      "title": "Nonmalignant Hematologic Disorders",
+      "related_resources": [
+        {
+          "id": "61883b14",
+          "title": "Iron Deficiency Anemia; Sickle Cell Anemia, p. 271\u2013275",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "e34f0437",
+          "title": "Ch. 07: Protection",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Management of iron deficiency and sickle cell crisis, focusing on perfusion and pain management."
+        }
+      ]
+    },
+    {
+      "id": "Bas-30",
+      "class": "Basic Adult Healthcare",
+      "number": "30",
+      "title": "Hematologic Neoplasms",
+      "related_resources": [
+        {
+          "id": "ff938334",
+          "title": "Ch. 07: Protection",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Nursing care for leukemia and multiple myeloma, specifically addressing infection prevention and bone pain."
+        }
+      ]
+    },
+    {
+      "id": "Bas-31",
+      "class": "Basic Adult Healthcare",
+      "number": "31",
+      "title": "Assessment of Immune Function",
+      "related_resources": []
+    },
+    {
+      "id": "Bas-32",
+      "class": "Basic Adult Healthcare",
+      "number": "32",
+      "title": "Immune Deficiency Disorders",
+      "related_resources": [
+        {
+          "id": "9ecdfe0b",
+          "title": "Human Immunodeficiency Virus, p. 219",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "a110f799",
+          "title": "Ch. 07: Protection",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Clinical mapping for HIV/AIDS, focusing on immune system collapse and opportunistic infections."
+        }
+      ]
+    },
+    {
+      "id": "Bas-33",
+      "class": "Basic Adult Healthcare",
+      "number": "33",
+      "title": "Allergic Disorders",
+      "related_resources": [
+        {
+          "id": "24dee84a",
+          "title": "Ch. 07: Protection",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Recognition and emergency management of hypersensitivity reactions and anaphylaxis."
+        }
+      ]
+    },
+    {
+      "id": "Bas-34",
+      "class": "Basic Adult Healthcare",
+      "number": "34",
+      "title": "Inflammatory Rheumatic Disorders",
+      "related_resources": [
+        {
+          "id": "209e1c58",
+          "title": "Systemic Lupus Erythematosus; Rheumatoid Arthritis, p. 225, 227",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "d9dbae0e",
+          "title": "Ch. 15: Adaptation",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Management of chronic autoimmune conditions like Lupus (SLE) and Rheumatoid Arthritis."
+        },
+        {
+          "id": "258fea0e",
+          "title": "Collete Youncy",
+          "type": "CJ Sim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "51-year-old female managing rheumatoid arthritis; focuses on joint protection and inflammatory triggers."
+        },
+        {
+          "id": "50c0c037",
+          "title": "Systemic Lupus Erythematosus",
+          "type": "Interactive Case Study",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Addressing \"Soap Brain MD\" symptoms and immunologic triggers."
+        }
+      ]
+    },
+    {
+      "id": "Bas-35",
+      "class": "Basic Adult Healthcare",
+      "number": "35",
+      "title": "Assessment of Musculoskeletal Function",
+      "related_resources": []
+    },
+    {
+      "id": "Bas-36",
+      "class": "Basic Adult Healthcare",
+      "number": "36",
+      "title": "Musculoskeletal Disorders",
+      "related_resources": [
+        {
+          "id": "9815e043",
+          "title": "Osteoarthritis; Hip/Knee Arthroplasty, p. 173, 175",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "7b1e5329",
+          "title": "Ch. 13: Movement",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Care for mobility issues related to osteoarthritis and osteoporosis."
+        },
+        {
+          "id": "eabb66dd",
+          "title": "Jack Armstrong",
+          "type": "CJ Sim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "52-year-old male scheduled for physical therapy due to advanced osteoarthritis in both knees."
+        },
+        {
+          "id": "e5ae6d7f",
+          "title": "Osteoarthritis; Wounds",
+          "type": "Interactive Case Study",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Mobility priorities and tissue integrity for degenerative joints."
+        },
+        {
+          "id": "046878f2",
+          "title": "Lloyd Bennett",
+          "type": "vSim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "A 76-year-old male POD 1 following a left hip arthroplasty requiring a blood transfusion for low hemoglobin."
+        }
+      ]
+    },
+    {
+      "id": "Bas-37",
+      "class": "Basic Adult Healthcare",
+      "number": "37",
+      "title": "Musculoskeletal Trauma",
+      "related_resources": [
+        {
+          "id": "4680c30b",
+          "title": "Fractures, p. 171",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "063b0754",
+          "title": "Ch. 13: Movement",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Priorities for fracture management, including immobilization and neurovascular checks."
+        },
+        {
+          "id": "e46ae435",
+          "title": "Fracture",
+          "type": "Interactive Case Study",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Managing \"BLT Lard\" (Bone, Location, Type) and neurovascular checks."
+        },
+        {
+          "id": "e215de5a",
+          "title": "Marilyn Hughes",
+          "type": "vSim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "A 45-year-old female POD 0 following an ORIF procedure for a mid-shaft tibia-fibula fracture."
+        }
+      ]
+    },
+    {
+      "id": "Bas-38",
+      "class": "Basic Adult Healthcare",
+      "number": "38",
+      "title": "Assessment of Digestive and GI Function",
+      "related_resources": []
+    },
+    {
+      "id": "Bas-39",
+      "class": "Basic Adult Healthcare",
+      "number": "39",
+      "title": "Oral and Esophageal Disorders",
+      "related_resources": []
+    },
+    {
+      "id": "Bas-40",
+      "class": "Basic Adult Healthcare",
+      "number": "40",
+      "title": "Gastric and Duodenal Disorders",
+      "related_resources": [
+        {
+          "id": "0798f709",
+          "title": "Peptic Ulcer Disease, p. 359",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "adb2cca1",
+          "title": "Ch. 11: Nutrition",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Priorities for Peptic Ulcer Disease, including H. pylori management and GI bleeding risks."
+        }
+      ]
+    },
+    {
+      "id": "Bas-41",
+      "class": "Basic Adult Healthcare",
+      "number": "41",
+      "title": "Intestinal and Rectal Disorders",
+      "related_resources": [
+        {
+          "id": "93fc9456",
+          "title": "Intestinal Obstruction; Inflammatory Bowel Disease, p. 325, 331",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "a3c1167b",
+          "title": "Ch. 11: Nutrition",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Management of Crohn\u2019s disease and intestinal obstructions."
+        },
+        {
+          "id": "2c851a98",
+          "title": "Willow Gussma",
+          "type": "CJ Sim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "22-year-old female presenting to the ED with acute RLQ pain and nausea, indicative of appendicitis."
+        },
+        {
+          "id": "87faad8a",
+          "title": "Stan Checketts",
+          "type": "vSim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "A 52-year-old male with severe abdominal pain, nausea, and vomiting; diagnosed with a suspected small bowel obstruction."
+        },
+        {
+          "id": "9aa4d5b6",
+          "title": "Vernon Watkins",
+          "type": "vSim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "A 69-year-old male POD 4 following a left hemicolectomy; primary clinical risk is a pulmonary embolism."
+        }
+      ]
+    },
+    {
+      "id": "Bas-42",
+      "class": "Basic Adult Healthcare",
+      "number": "42",
+      "title": "Obesity",
+      "related_resources": [
+        {
+          "id": "2af77f68",
+          "title": "Jenna Batch",
+          "type": "CJ Sim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "37-year-old female seeking consultation for metabolic syndrome and obesity management."
+        }
+      ]
+    },
+    {
+      "id": "Bas-43",
+      "class": "Basic Adult Healthcare",
+      "number": "43",
+      "title": "Hepatic Disorders",
+      "related_resources": [
+        {
+          "id": "a35be6c8",
+          "title": "Cirrhosis; Hepatitis, p. 363, 365",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "770f6af3",
+          "title": "Ch. 11: Nutrition",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Clinical judgment for liver cirrhosis and the various types of viral hepatitis."
+        }
+      ]
+    },
+    {
+      "id": "Bas-44",
+      "class": "Basic Adult Healthcare",
+      "number": "44",
+      "title": "Biliary Disorders",
+      "related_resources": [
+        {
+          "id": "815624d4",
+          "title": "Pancreatitis, p. 221",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "Bas-45",
+      "class": "Basic Adult Healthcare",
+      "number": "45",
+      "title": "Endocrine Disorders",
+      "related_resources": [
+        {
+          "id": "c550cfd7",
+          "title": "Addison\u2019s; Cushing\u2019s; Hyper/Hypothyroidism, p. 317\u2013319",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "d7364a2f",
+          "title": "Diabetes Insipidus; SIADH, p. 347, 349",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "d27d76d3",
+          "title": "Ch. 12: Hormonal",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Assessment of thyroid and adrenal gland dysfunctions (Addison's, Hyperthyroidism)."
+        },
+        {
+          "id": "93d9ee8f",
+          "title": "Peggy Sue Allen",
+          "type": "CJ Sim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "72-year-old female presenting with fatigue and cold intolerance, characteristic of hypothyroidism."
+        },
+        {
+          "id": "7ab346ab",
+          "title": "Hyperthyroidism; Hypothyroidism",
+          "type": "Interactive Case Study",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Managing metabolic regulation and potential \"Thyroid Storm\" ."
+        }
+      ]
+    },
+    {
+      "id": "Bas-46",
+      "class": "Basic Adult Healthcare",
+      "number": "46",
+      "title": "Diabetes",
+      "related_resources": [
+        {
+          "id": "7eec5c0a",
+          "title": "Diabetes Mellitus (Insulin vs Non-Insulin), p. 335\u2013337",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "91e42a85",
+          "title": "Ch. 10: Regulation",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Comprehensive care for Type 1 and Type 2 diabetes, DKA, and HHNS."
+        },
+        {
+          "id": "9594da91",
+          "title": "Diabetes; Type 2 Diabetes Mellitus",
+          "type": "Interactive Case Study",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Focus on the \"3 P's\" and insulin vs. non-insulin dependency."
+        },
+        {
+          "id": "89c7548f",
+          "title": "Skyler Hansen",
+          "type": "vSim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "An 18-year-old male with Type 1 diabetes presenting with confusion and acting \"weird\" after exercise; diagnosed with hypoglycemia."
+        }
+      ]
+    },
+    {
+      "id": "Bas-47",
+      "class": "Basic Adult Healthcare",
+      "number": "47",
+      "title": "Assessment of Kidney and Urinary Function",
+      "related_resources": []
+    },
+    {
+      "id": "Bas-48",
+      "class": "Basic Adult Healthcare",
+      "number": "48",
+      "title": "Kidney Disorders",
+      "related_resources": [
+        {
+          "id": "3fd5290e",
+          "title": "Acute Kidney Injury; Chronic Kidney Disease, p. 309, 311",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "311838db",
+          "title": "Ch. 10: Regulation",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Priorities for Acute Kidney Injury (AKI) and Chronic Kidney Disease (CKD)."
+        },
+        {
+          "id": "dd738164",
+          "title": "Sidney Barnes",
+          "type": "CJ Sim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "31-year-old female experiencing acute kidney injury following a severe trauma."
+        },
+        {
+          "id": "e21f0432",
+          "title": "Acute Kidney Injury; Chronic Kidney Disease",
+          "type": "Interactive Case Study",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Managing \"AEIOU\" (Anemia, Electrolytes, Infection, Other, Uremia)."
+        }
+      ]
+    },
+    {
+      "id": "Bas-49",
+      "class": "Basic Adult Healthcare",
+      "number": "49",
+      "title": "Urinary Disorders",
+      "related_resources": [
+        {
+          "id": "8f885ce1",
+          "title": "Urinary Tract Infection, p. 307",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "Bas-50",
+      "class": "Basic Adult Healthcare",
+      "number": "50",
+      "title": "Female Physiologic Processes",
+      "related_resources": []
+    },
+    {
+      "id": "Bas-51",
+      "class": "Basic Adult Healthcare",
+      "number": "51",
+      "title": "Female Reproductive Disorders",
+      "related_resources": [
+        {
+          "id": "191970ab",
+          "title": "Acute Pain (Relevant to Hysterectomy Scenario), p. 113",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "031ae3a2",
+          "title": "Doris Bowman",
+          "type": "vSim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "A 39-year-old female in the PACU following a total abdominal hysterectomy for uterine fibroids."
+        }
+      ]
+    },
+    {
+      "id": "Bas-52",
+      "class": "Basic Adult Healthcare",
+      "number": "52",
+      "title": "Breast Disorders",
+      "related_resources": []
+    },
+    {
+      "id": "Bas-53",
+      "class": "Basic Adult Healthcare",
+      "number": "53",
+      "title": "Male Reproductive Disorders",
+      "related_resources": [
+        {
+          "id": "7d089ec3",
+          "title": "Benign Prostatic Hyperplasia; Prostate Cancer, p. 297, 299",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "Bas-54",
+      "class": "Basic Adult Healthcare",
+      "number": "54",
+      "title": "LGBTQ Patients",
+      "related_resources": []
+    },
+    {
+      "id": "Bas-55",
+      "class": "Basic Adult Healthcare",
+      "number": "55",
+      "title": "Assessment of Integumentary Function",
+      "related_resources": []
+    },
+    {
+      "id": "Bas-56",
+      "class": "Basic Adult Healthcare",
+      "number": "56",
+      "title": "Dermatologic Disorders",
+      "related_resources": []
+    },
+    {
+      "id": "Bas-57",
+      "class": "Basic Adult Healthcare",
+      "number": "57",
+      "title": "Burn Injury",
+      "related_resources": [
+        {
+          "id": "6e2b569f",
+          "title": "Roxy Hillside",
+          "type": "CJ Sim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "20-year-old female admitted to the Surgical Care Unit with partial-thickness burns on her upper extremities."
+        }
+      ]
+    },
+    {
+      "id": "Bas-58",
+      "class": "Basic Adult Healthcare",
+      "number": "58",
+      "title": "Eye and Vision Disorders",
+      "related_resources": [
+        {
+          "id": "e42db87d",
+          "title": "Glaucoma; Cataracts, p. 387, 389",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "93b158c2",
+          "title": "Ch. 13: Movement",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Clinical judgment for cataracts and glaucoma, focusing on safety and sensory perception."
+        }
+      ]
+    },
+    {
+      "id": "Bas-59",
+      "class": "Basic Adult Healthcare",
+      "number": "59",
+      "title": "Hearing and Balance Disorders",
+      "related_resources": []
+    },
+    {
+      "id": "Bas-60",
+      "class": "Basic Adult Healthcare",
+      "number": "60",
+      "title": "Assessment of Neurologic Function",
+      "related_resources": []
+    },
+    {
+      "id": "Bas-61",
+      "class": "Basic Adult Healthcare",
+      "number": "61",
+      "title": "Neurologic Dysfunction",
+      "related_resources": [
+        {
+          "id": "af8be6c0",
+          "title": "Increased Intracranial Pressure, p. 303",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "2399ad47",
+          "title": "Ch. 17: Cognition",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Care for patients with seizures and increased intracranial pressure."
+        }
+      ]
+    },
+    {
+      "id": "Bas-62",
+      "class": "Basic Adult Healthcare",
+      "number": "62",
+      "title": "Cerebrovascular Disorders",
+      "related_resources": [
+        {
+          "id": "58ca61ca",
+          "title": "Embolic Stroke; Hemorrhagic Stroke, p. 53\u201355",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "def5e5f8",
+          "title": "Ch. 06: Circulation",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Differentiating between ischemic (embolic) and hemorrhagic stroke interventions."
+        }
+      ]
+    },
+    {
+      "id": "Bas-63",
+      "class": "Basic Adult Healthcare",
+      "number": "63",
+      "title": "Neurologic Trauma",
+      "related_resources": []
+    },
+    {
+      "id": "Bas-64",
+      "class": "Basic Adult Healthcare",
+      "number": "64",
+      "title": "Neuro Infections, Autoimmune Disorders, Neuropathies",
+      "related_resources": []
+    },
+    {
+      "id": "Bas-65",
+      "class": "Basic Adult Healthcare",
+      "number": "65",
+      "title": "Oncologic or Degenerative Neurologic Disorders",
+      "related_resources": [
+        {
+          "id": "f0230fd5",
+          "title": "Parkinson\u2019s Disease, p. 191",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "1a62993b",
+          "title": "Ch. 13: Movement",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Nursing priorities for Parkinson\u2019s disease, addressing mobility and safety."
+        }
+      ]
+    },
+    {
+      "id": "Bas-66",
+      "class": "Basic Adult Healthcare",
+      "number": "66",
+      "title": "Infectious Diseases",
+      "related_resources": [
+        {
+          "id": "386436e5",
+          "title": "Ch. 07: Protection",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Focuses on influenza and tuberculosis transmission prevention and treatment."
+        }
+      ]
+    },
+    {
+      "id": "Bas-67",
+      "class": "Basic Adult Healthcare",
+      "number": "67",
+      "title": "Emergency Nursing Issues",
+      "related_resources": [
+        {
+          "id": "73fd1317",
+          "title": "Emergency Triage; Bites and Stings, p. 431, 23",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "ae06c9dd",
+          "title": "Ch. 18: Multi-Concept",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Triage and injury prevention for trauma, bites, and environmental emergencies."
+        }
+      ]
+    },
+    {
+      "id": "Bas-68",
+      "class": "Basic Adult Healthcare",
+      "number": "68",
+      "title": "Disaster Nursing",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-1",
+      "class": "Pharmacology",
+      "number": "1",
+      "title": "Introduction to Drugs",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-2",
+      "class": "Pharmacology",
+      "number": "2",
+      "title": "Drugs and the Body",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-3",
+      "class": "Pharmacology",
+      "number": "3",
+      "title": "Toxic Effects of Drugs",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-4",
+      "class": "Pharmacology",
+      "number": "4",
+      "title": "The Nursing Process in Drug Therapy and Patient Safety",
+      "related_resources": [
+        {
+          "id": "efb65144",
+          "title": "Safety: Medication Administration, p. 437",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "f8ba4b1b",
+          "title": "Ch. 02: Next Gen Clinical Judgment",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Guidelines for safe medication administration, rights of nursing, and error prevention."
+        },
+        {
+          "id": "cabe58a6",
+          "title": "Avery Dawson",
+          "type": "CJ Sim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "26-year-old female requiring medication reconciliation and education on safe medication use."
+        },
+        {
+          "id": "f2d528ef",
+          "title": "Drug Administration and Medication Safety",
+          "type": "Interactive Case Study",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Preventing medication errors and following safety protocols."
+        }
+      ]
+    },
+    {
+      "id": "Pha-5",
+      "class": "Pharmacology",
+      "number": "5",
+      "title": "Dosage Calculations",
+      "related_resources": [
+        {
+          "id": "f9aeb890",
+          "title": "Student Tips for Success (Math Prep), p. 3",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "92c0ae8e",
+          "title": "Ch. 02: Next Gen Clinical Judgment",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Success tips for mastering math conversions and clinical dosage logic."
+        }
+      ]
+    },
+    {
+      "id": "Pha-6",
+      "class": "Pharmacology",
+      "number": "6",
+      "title": "Challenges to Effective Drug Therapy",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-7",
+      "class": "Pharmacology",
+      "number": "7",
+      "title": "Introduction to Cell Physiology",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-8",
+      "class": "Pharmacology",
+      "number": "8",
+      "title": "Anti-infective Agents",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-9",
+      "class": "Pharmacology",
+      "number": "9",
+      "title": "Antibiotic Agents",
+      "related_resources": [
+        {
+          "id": "67fda535",
+          "title": "Methicillin-Resistant Staphylococcus aureus (MRSA), p. 231",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "dbe591cb",
+          "title": "Vancomycin-Resistant Enterococci (VRE), p. 233",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "97a6a5ab",
+          "title": "Ch. 07: Protection",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Priorities for resistant infections like MRSA and VRE, focusing on infection control."
+        },
+        {
+          "id": "33c42ef9",
+          "title": "Harry Hadley",
+          "type": "vSim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "A patient with a MRSA infection receiving IV Vancomycin for cellulitis."
+        },
+        {
+          "id": "9d69ff96",
+          "title": "Suzanne Morris",
+          "type": "vSim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Management of Clostridioides difficile infection and adverse drug effects related to antibiotic use."
+        }
+      ]
+    },
+    {
+      "id": "Pha-10",
+      "class": "Pharmacology",
+      "number": "10",
+      "title": "Antiviral Agents",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-11",
+      "class": "Pharmacology",
+      "number": "11",
+      "title": "Antifungal Agents",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-12",
+      "class": "Pharmacology",
+      "number": "12",
+      "title": "Antiprotozoal Agents",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-13",
+      "class": "Pharmacology",
+      "number": "13",
+      "title": "Anthelmintic Agents",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-14",
+      "class": "Pharmacology",
+      "number": "14",
+      "title": "Antineoplastic Agents",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-15",
+      "class": "Pharmacology",
+      "number": "15",
+      "title": "Introduction to the Immune Response and Inflammation",
+      "related_resources": [
+        {
+          "id": "b4fbf859",
+          "title": "Concept: Protection \u2013 Immunity, Inflammation, Infection, p. 215",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "daa3b768",
+          "title": "Ch. 07: Protection",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Concept overview of immunity, inflammatory triggers, and protection nursing cues."
+        }
+      ]
+    },
+    {
+      "id": "Pha-16",
+      "class": "Pharmacology",
+      "number": "16",
+      "title": "Antiinflammatory, Antiarthritis, and Related Agents",
+      "related_resources": [
+        {
+          "id": "7a671c97",
+          "title": "Cushing\u2019s Syndrome (Steroid Excess/Management), p. 319",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "040f1022",
+          "title": "Ch. 12: Hormonal",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Management of steroid therapy and monitoring for Cushing-like side effects."
+        }
+      ]
+    },
+    {
+      "id": "Pha-17",
+      "class": "Pharmacology",
+      "number": "17",
+      "title": "Immune Modulators",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-18",
+      "class": "Pharmacology",
+      "number": "18",
+      "title": "Vaccines and Sera",
+      "related_resources": [
+        {
+          "id": "8d837a2e",
+          "title": "Health Promotion: Immunizations, p. 99",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "7f31f1f0",
+          "title": "Ch. 04: Unfolding Concepts II",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Health promotion through immunizations and primary prevention strategies."
+        }
+      ]
+    },
+    {
+      "id": "Pha-19",
+      "class": "Pharmacology",
+      "number": "19",
+      "title": "Introduction to Nerves and the Nervous System",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-20",
+      "class": "Pharmacology",
+      "number": "20",
+      "title": "Anxiolytic and Hypnotic Agents",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-21",
+      "class": "Pharmacology",
+      "number": "21",
+      "title": "Antidepressant Agents",
+      "related_resources": [
+        {
+          "id": "2d0a514e",
+          "title": "Depression, p. 135",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "bbff5168",
+          "title": "Ch. 16: Emotion",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Assessing therapeutic effects and safety risks in patients with clinical depression."
+        },
+        {
+          "id": "0b6dfe5d",
+          "title": "Thor Smyth",
+          "type": "CJ Sim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "27-year-old male in the Mental Health Unit being started on antidepressant therapy for major depressive disorder."
+        },
+        {
+          "id": "29dee7e3",
+          "title": "Pharmacologic Treatment of Depression",
+          "type": "Interactive Case Study",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Assessing therapeutic effects and psychotropic side effects."
+        },
+        {
+          "id": "612fc3a0",
+          "title": "Jermaine Jones",
+          "type": "vSim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Management of mental health and depression focusing on drug and alcohol interactions."
+        },
+        {
+          "id": "d406c2fe",
+          "title": "Daniella Young Bear",
+          "type": "vSim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Medication reconciliation and pain management focusing on opioid and antidepressant drug interactions."
+        }
+      ]
+    },
+    {
+      "id": "Pha-22",
+      "class": "Pharmacology",
+      "number": "22",
+      "title": "Psychotherapeutic Agents",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-23",
+      "class": "Pharmacology",
+      "number": "23",
+      "title": "Antiseizure Agents",
+      "related_resources": [
+        {
+          "id": "0a57867a",
+          "title": "Seizures, p. 195",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "1cb3111a",
+          "title": "Ch. 13: Movement",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Monitoring seizure activity, types of seizures (tonic-clonic/absence), and safety cues."
+        },
+        {
+          "id": "5d5379f9",
+          "title": "Pharmacologic Treatment of Epilepsy",
+          "type": "Interactive Case Study",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Monitoring \"FACT\" (Focus, Activity, Color, Time) for seizures."
+        }
+      ]
+    },
+    {
+      "id": "Pha-24",
+      "class": "Pharmacology",
+      "number": "24",
+      "title": "Antiparkinsonism Agents",
+      "related_resources": [
+        {
+          "id": "f9f72ee8",
+          "title": "Parkinson\u2019s Disease, p. 191",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "9a142839",
+          "title": "Ch. 13: Movement",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Focus on akinesis, rigidity, and the 'Ali Loves Boxing Matches' med mnemonic."
+        },
+        {
+          "id": "86577a3f",
+          "title": "Pharmacologic Treatment of Parkinson and Alzheimer Diseases",
+          "type": "Interactive Case Study",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Assessing therapeutic effects and psychotropic side effects."
+        }
+      ]
+    },
+    {
+      "id": "Pha-25",
+      "class": "Pharmacology",
+      "number": "25",
+      "title": "Muscle Relaxants",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-26",
+      "class": "Pharmacology",
+      "number": "26",
+      "title": "Opioid Agonists, Opioid Antagonists, and Antimigraine Agents",
+      "related_resources": [
+        {
+          "id": "1256ecf3",
+          "title": "Concept: Comfort \u2013 Pain, Tissue Integrity, p. 111",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "54a3a69d",
+          "title": "Acute Pain, p. 113",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "3129b4a8",
+          "title": "Ch. 14: Comfort",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Priorities for comfort and acute pain management, including respiratory monitoring."
+        },
+        {
+          "id": "a33c3d8e",
+          "title": "Yoa Li",
+          "type": "vSim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Post-operative pain management utilizing Patient-Controlled Analgesia (PCA) with morphine."
+        }
+      ]
+    },
+    {
+      "id": "Pha-27",
+      "class": "Pharmacology",
+      "number": "27",
+      "title": "General and Local Anesthetic Agents",
+      "related_resources": [
+        {
+          "id": "3373f332",
+          "title": "Earl Duckworth",
+          "type": "CJ Sim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "58-year-old male requiring multi-drug therapy to manage chronic, resistant hypertension."
+        },
+        {
+          "id": "92f2e82a",
+          "title": "Pharmacologic Treatment of Stroke",
+          "type": "Interactive Case Study",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Managing embolic vs. hemorrhagic stroke pharmacotherapy."
+        }
+      ]
+    },
+    {
+      "id": "Pha-28",
+      "class": "Pharmacology",
+      "number": "28",
+      "title": "Neuromuscular Junction Blocking Agents",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-29",
+      "class": "Pharmacology",
+      "number": "29",
+      "title": "Introduction to the Autonomic Nervous System",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-30",
+      "class": "Pharmacology",
+      "number": "30",
+      "title": "Adrenergic Agonists",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-31",
+      "class": "Pharmacology",
+      "number": "31",
+      "title": "Adrenergic Antagonists",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-32",
+      "class": "Pharmacology",
+      "number": "32",
+      "title": "Cholinergic Agonists",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-33",
+      "class": "Pharmacology",
+      "number": "33",
+      "title": "Anticholinergic Agents",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-34",
+      "class": "Pharmacology",
+      "number": "34",
+      "title": "Introduction to the Endocrine System",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-35",
+      "class": "Pharmacology",
+      "number": "35",
+      "title": "Hypothalamic and Pituitary Agents",
+      "related_resources": [
+        {
+          "id": "9825c81d",
+          "title": "Diabetes Insipidus, p. 347",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "3c10cd90",
+          "title": "Syndrome of Inappropriate Antidiuretic Hormone, p. 349",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "35881194",
+          "title": "Ch. 12: Hormonal",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Managing antidiuretic hormone imbalances and associated fluid volume cues."
+        }
+      ]
+    },
+    {
+      "id": "Pha-36",
+      "class": "Pharmacology",
+      "number": "36",
+      "title": "Adrenocortical Agents",
+      "related_resources": [
+        {
+          "id": "bc3bdd91",
+          "title": "Addison\u2019s Syndrome/Disease, p. 317",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "f96793fb",
+          "title": "Cushing\u2019s Syndrome/Disease, p. 319",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "b07c7907",
+          "title": "Ch. 12: Hormonal",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Nursing care for cortisol imbalances (Addison's vs. Cushing's Syndrome)."
+        }
+      ]
+    },
+    {
+      "id": "Pha-37",
+      "class": "Pharmacology",
+      "number": "37",
+      "title": "Thyroid and Parathyroid Agents",
+      "related_resources": [
+        {
+          "id": "e57d3dad",
+          "title": "Hyperthyroidism, p. 351",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "b64b57a1",
+          "title": "Hypothyroidism, p. 353",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "e40144ce",
+          "title": "Hyperparathyroidism, p. 343",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "edc524ce",
+          "title": "Ch. 12: Hormonal",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Assessing metabolic regulation, tremors, and temperature intolerance."
+        }
+      ]
+    },
+    {
+      "id": "Pha-38",
+      "class": "Pharmacology",
+      "number": "38",
+      "title": "Agents to Control Blood Glucose Levels",
+      "related_resources": [
+        {
+          "id": "4c7d52f1",
+          "title": "Diabetes Mellitus\u2014Insulin Dependent, p. 335",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "edd778a1",
+          "title": "Diabetes Mellitus\u2014Non-Insulin Dependent, p. 337",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "e6e16451",
+          "title": "Ch. 10: Regulation",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Focus on the '3 P's' (polyuria, polydipsia, polyphagia) and hypoglycemia risks."
+        },
+        {
+          "id": "8520d3d5",
+          "title": "Pharmacologic Treatment of Diabetes",
+          "type": "Interactive Case Study",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Managing \"Hot and Dry\" (High Sugar) vs. \"Cold and Clammy\" (Low Sugar)."
+        },
+        {
+          "id": "7f22b6d8",
+          "title": "Juan Carlos",
+          "type": "vSim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Diabetes management focusing on insulin therapy, oral hypoglycemics, and hypoglycemia risk."
+        }
+      ]
+    },
+    {
+      "id": "Pha-39",
+      "class": "Pharmacology",
+      "number": "39",
+      "title": "Introduction to the Reproductive System",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-40",
+      "class": "Pharmacology",
+      "number": "40",
+      "title": "Drugs Affecting the Female Reproductive System",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-41",
+      "class": "Pharmacology",
+      "number": "41",
+      "title": "Drugs Affecting the Male Reproductive System",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-42",
+      "class": "Pharmacology",
+      "number": "42",
+      "title": "Introduction to the Cardiovascular System",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-43",
+      "class": "Pharmacology",
+      "number": "43",
+      "title": "Drugs Affecting Blood Pressure",
+      "related_resources": [
+        {
+          "id": "8c25bc5e",
+          "title": "Hypertension, p. 67",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "33105903",
+          "title": "Ch. 06: Circulation",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Managing hypertension with the 'ABCD' treatment logic and monitoring for TIA."
+        },
+        {
+          "id": "9e59d4b1",
+          "title": "Pharmacologic Treatment of Hypertension",
+          "type": "Interactive Case Study",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Utilizing \"ABCD\" treatment logic (ACE, Beta blockers, Calcium, Diuretics)."
+        }
+      ]
+    },
+    {
+      "id": "Pha-44",
+      "class": "Pharmacology",
+      "number": "44",
+      "title": "Agents for Treating Heart Failure",
+      "related_resources": [
+        {
+          "id": "39914cf9",
+          "title": "Heart Failure, p. 65",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "476fa04b",
+          "title": "NurseThink\u00ae Quick: Digoxin Toxicity, p. 66",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "dfed58a4",
+          "title": "Ch. 06: Circulation",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Managing HF using 'UNLOAD FAST' and monitoring for Digoxin toxicity (VANBAD)."
+        },
+        {
+          "id": "de917a49",
+          "title": "Sadrac Joicin",
+          "type": "CJ Sim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "51-year-old male receiving Digoxin for heart failure; requires monitoring for toxicity and electrolyte balance."
+        },
+        {
+          "id": "e05ce6c1",
+          "title": "Mary Richards",
+          "type": "vSim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Heart Failure management with a focus on identifying and treating Digoxin toxicity."
+        }
+      ]
+    },
+    {
+      "id": "Pha-45",
+      "class": "Pharmacology",
+      "number": "45",
+      "title": "Antiarrhythmic Agents",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-46",
+      "class": "Pharmacology",
+      "number": "46",
+      "title": "Antianginal Agents",
+      "related_resources": [
+        {
+          "id": "09fc0dfa",
+          "title": "Acute Coronary Syndrome, p. 59",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "7eda6a5e",
+          "title": "Atherosclerosis, p. 61",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "3f2c668e",
+          "title": "Ch. 06: Circulation",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Using 'MONAH' for acute coronary syndrome and managing atherosclerosis."
+        },
+        {
+          "id": "7e0575a2",
+          "title": "Pharmacologic Treatment of Myocardial Ischemia",
+          "type": "Interactive Case Study",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Utilization of nitroglycerin and managing angina pectoris."
+        },
+        {
+          "id": "11c33389",
+          "title": "Junetta Cooper",
+          "type": "vSim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Angina and Coronary Artery Disease management focusing on Nitroglycerin therapy."
+        }
+      ]
+    },
+    {
+      "id": "Pha-47",
+      "class": "Pharmacology",
+      "number": "47",
+      "title": "Lipid-Lowering Agents",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-48",
+      "class": "Pharmacology",
+      "number": "48",
+      "title": "Drugs Affecting Blood Coagulation",
+      "related_resources": [
+        {
+          "id": "f28622cd",
+          "title": "Coagulation Disorders, p. 51",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "6b2dc74d",
+          "title": "Deep Vein Thrombosis, p. 73",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "b9a61e42",
+          "title": "Ch. 06: Circulation",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Focus on DIC, DVT prevention, and pulmonary embolism (PE) risk factors."
+        },
+        {
+          "id": "4fe412c7",
+          "title": "Rachael Heidebrink",
+          "type": "vSim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Post-surgical anticoagulation therapy (Apixaban and Fondaparinux) following hip surgery."
+        }
+      ]
+    },
+    {
+      "id": "Pha-49",
+      "class": "Pharmacology",
+      "number": "49",
+      "title": "Drugs Used to Treat Anemias",
+      "related_resources": [
+        {
+          "id": "ba7429f8",
+          "title": "Iron Deficiency Anemia, p. 271",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "4665f978",
+          "title": "Ch. 07: Protection",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Priorities for iron deficiency and sickle cell anemia management."
+        }
+      ]
+    },
+    {
+      "id": "Pha-50",
+      "class": "Pharmacology",
+      "number": "50",
+      "title": "Introduction to the Renal System",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-51",
+      "class": "Pharmacology",
+      "number": "51",
+      "title": "Diuretic Agents",
+      "related_resources": [
+        {
+          "id": "c4cb315b",
+          "title": "Fluid Overload (Diuretic Management), p. 163",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "14237627",
+          "title": "Ch. 08: Homeostasis",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Assessing fluid overload, edema, and effectiveness of loop vs. thiazide diuretics."
+        }
+      ]
+    },
+    {
+      "id": "Pha-52",
+      "class": "Pharmacology",
+      "number": "52",
+      "title": "Drugs Affecting the Urinary Tract and the Bladder",
+      "related_resources": [
+        {
+          "id": "e8edce82",
+          "title": "Safety: Urinary Catheter, p. 447",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "Pha-53",
+      "class": "Pharmacology",
+      "number": "53",
+      "title": "Introduction to the Respiratory System",
+      "related_resources": [
+        {
+          "id": "e2988a0b",
+          "title": "Toua Xiong",
+          "type": "vSim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Chronic Obstructive Pulmonary Disease (COPD) management focusing on inhaler and oxygen therapy."
+        }
+      ]
+    },
+    {
+      "id": "Pha-54",
+      "class": "Pharmacology",
+      "number": "54",
+      "title": "Drugs Acting on the Upper Respiratory Tract",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-55",
+      "class": "Pharmacology",
+      "number": "55",
+      "title": "Drugs Acting on the Lower Respiratory Tract",
+      "related_resources": [
+        {
+          "id": "eb52011d",
+          "title": "Asthma, p. 371",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "d417dddb",
+          "title": "Chronic Obstructive Pulmonary Disease, p. 373",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "09d9a565",
+          "title": "Ch. 09: Respiration",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Use of adrenergics and steroids to manage pink puffers (emphysema) vs. blue bloaters."
+        },
+        {
+          "id": "f3d54c11",
+          "title": "Henrique Ramirez",
+          "type": "CJ Sim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "8-year-old male in the Pediatric Unit requiring inhaled bronchodilators and steroids for asthma management."
+        },
+        {
+          "id": "e6e32182",
+          "title": "Pharmacologic Treatment of Asthma",
+          "type": "Interactive Case Study",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Utilizing \"ASTHMA\" treatment priorities (Adrenergics, Steroids, Theophyllines, etc.)."
+        }
+      ]
+    },
+    {
+      "id": "Pha-56",
+      "class": "Pharmacology",
+      "number": "56",
+      "title": "Introduction to the Gastrointestinal System",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-57",
+      "class": "Pharmacology",
+      "number": "57",
+      "title": "Drugs Affecting Gastrointestinal Secretions",
+      "related_resources": [
+        {
+          "id": "6dff6cd5",
+          "title": "Peptic Ulcer, p. 359",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "4681e43d",
+          "title": "Ch. 11: Nutrition",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Treatment for Peptic Ulcer Disease and H. pylori ('Please Make Tummy Better')."
+        },
+        {
+          "id": "5d71d25b",
+          "title": "Madilynn Weaver",
+          "type": "CJ Sim",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "27-year-old female with peptic ulcer disease requiring education on proton pump inhibitors and antacids."
+        },
+        {
+          "id": "4126e7bd",
+          "title": "Pharmacologic Treatment of Peptic Ulcer Disease",
+          "type": "Interactive Case Study",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Utilizing \"Please Make Tummy Better\" treatment for H. pylori."
+        }
+      ]
+    },
+    {
+      "id": "Pha-58",
+      "class": "Pharmacology",
+      "number": "58",
+      "title": "Drugs Affecting Gastrointestinal Motility",
+      "related_resources": [
+        {
+          "id": "fa1a5143",
+          "title": "Constipation, p. 321",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "95d0277f",
+          "title": "Diarrhea, p. 323",
+          "type": "The Notebook",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": ""
+        },
+        {
+          "id": "b71aa3be",
+          "title": "Ch. 11: Nutrition",
+          "type": "CCC Page",
+          "reason": "Direct Map",
+          "score": 100,
+          "description": "Care for elimination abnormalities and colostomy/ileostomy procedures."
+        }
+      ]
+    },
+    {
+      "id": "Pha-59",
+      "class": "Pharmacology",
+      "number": "59",
+      "title": "Antiemetic Agents",
+      "related_resources": []
+    },
+    {
+      "id": "Pha-60",
+      "class": "Pharmacology",
+      "number": "60",
+      "title": "Vitamins, Minerals, and Complementary/Alternative Medications",
+      "related_resources": []
+    }
+  ],
+  "resources": [
+    {
+      "id": "8df31123",
+      "type": "The Notebook",
+      "title": "Student Tips for Success (Nursing Process), p. 3",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "57198e9d",
+      "type": "The Notebook",
+      "title": "Strategies for Prioritization Power, p. 4",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "47a46a5a",
+      "type": "The Notebook",
+      "title": "Health Promotion, p. 99",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "e4040a71",
+      "type": "The Notebook",
+      "title": "Client Preference and Profile; Culture; Diversity, p. 81\u201385",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "c895bef2",
+      "type": "The Notebook",
+      "title": "Adaptation: Stress & Coping; Protection: Inflammation, p. 11, 215",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "4b229e69",
+      "type": "The Notebook",
+      "title": "Elder Abuse; Dementia and Alzheimer\u2019s, p. 25, 107",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "7282beeb",
+      "type": "The Notebook",
+      "title": "Comfort: Pain; Acute Pain; Chronic Pain, p. 111\u2013115",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "be77bffe",
+      "type": "The Notebook",
+      "title": "Homeostasis; Hypo/Hyperkalemia; Dehydration, p. 141\u2013163",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "f5f613d0",
+      "type": "The Notebook",
+      "title": "Circulation: Perfusion (Shock Concepts), p. 49",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "c0d881ff",
+      "type": "The Notebook",
+      "title": "Safety: Postoperative, p. 439",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "977cd391",
+      "type": "The Notebook",
+      "title": "Epistaxis, p. 251",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "33b69193",
+      "type": "The Notebook",
+      "title": "Pneumonia, p. 259",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "fdb1bb69",
+      "type": "The Notebook",
+      "title": "Asthma; Chronic Obstructive Pulmonary Disease, p. 371\u2013373",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "281a223f",
+      "type": "The Notebook",
+      "title": "Acute Coronary Syndrome; Myocardial Infarction, p. 59, 69",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "359bfa03",
+      "type": "The Notebook",
+      "title": "Heart Failure, p. 65",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "ba8823bd",
+      "type": "The Notebook",
+      "title": "Pulmonary Embolism; Deep Vein Thrombosis, p. 57, 73",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "52e68dbb",
+      "type": "The Notebook",
+      "title": "Hypertension, p. 67",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "3f25ba18",
+      "type": "The Notebook",
+      "title": "Safety: Blood Administration, p. 421",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "61883b14",
+      "type": "The Notebook",
+      "title": "Iron Deficiency Anemia; Sickle Cell Anemia, p. 271\u2013275",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "9ecdfe0b",
+      "type": "The Notebook",
+      "title": "Human Immunodeficiency Virus, p. 219",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "209e1c58",
+      "type": "The Notebook",
+      "title": "Systemic Lupus Erythematosus; Rheumatoid Arthritis, p. 225, 227",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "9815e043",
+      "type": "The Notebook",
+      "title": "Osteoarthritis; Hip/Knee Arthroplasty, p. 173, 175",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "4680c30b",
+      "type": "The Notebook",
+      "title": "Fractures, p. 171",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "0798f709",
+      "type": "The Notebook",
+      "title": "Peptic Ulcer Disease, p. 359",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "93fc9456",
+      "type": "The Notebook",
+      "title": "Intestinal Obstruction; Inflammatory Bowel Disease, p. 325, 331",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "a35be6c8",
+      "type": "The Notebook",
+      "title": "Cirrhosis; Hepatitis, p. 363, 365",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "815624d4",
+      "type": "The Notebook",
+      "title": "Pancreatitis, p. 221",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "c550cfd7",
+      "type": "The Notebook",
+      "title": "Addison\u2019s; Cushing\u2019s; Hyper/Hypothyroidism, p. 317\u2013319",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "d7364a2f",
+      "type": "The Notebook",
+      "title": "Diabetes Insipidus; SIADH, p. 347, 349",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "7eec5c0a",
+      "type": "The Notebook",
+      "title": "Diabetes Mellitus (Insulin vs Non-Insulin), p. 335\u2013337",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "3fd5290e",
+      "type": "The Notebook",
+      "title": "Acute Kidney Injury; Chronic Kidney Disease, p. 309, 311",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "8f885ce1",
+      "type": "The Notebook",
+      "title": "Urinary Tract Infection, p. 307",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "191970ab",
+      "type": "The Notebook",
+      "title": "Acute Pain (Relevant to Hysterectomy Scenario), p. 113",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "7d089ec3",
+      "type": "The Notebook",
+      "title": "Benign Prostatic Hyperplasia; Prostate Cancer, p. 297, 299",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "e42db87d",
+      "type": "The Notebook",
+      "title": "Glaucoma; Cataracts, p. 387, 389",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "af8be6c0",
+      "type": "The Notebook",
+      "title": "Increased Intracranial Pressure, p. 303",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "58ca61ca",
+      "type": "The Notebook",
+      "title": "Embolic Stroke; Hemorrhagic Stroke, p. 53\u201355",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "f0230fd5",
+      "type": "The Notebook",
+      "title": "Parkinson\u2019s Disease, p. 191",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "73fd1317",
+      "type": "The Notebook",
+      "title": "Emergency Triage; Bites and Stings, p. 431, 23",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "efb65144",
+      "type": "The Notebook",
+      "title": "Safety: Medication Administration, p. 437",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "f9aeb890",
+      "type": "The Notebook",
+      "title": "Student Tips for Success (Math Prep), p. 3",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "67fda535",
+      "type": "The Notebook",
+      "title": "Methicillin-Resistant Staphylococcus aureus (MRSA), p. 231",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "dbe591cb",
+      "type": "The Notebook",
+      "title": "Vancomycin-Resistant Enterococci (VRE), p. 233",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "b4fbf859",
+      "type": "The Notebook",
+      "title": "Concept: Protection \u2013 Immunity, Inflammation, Infection, p. 215",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "7a671c97",
+      "type": "The Notebook",
+      "title": "Cushing\u2019s Syndrome (Steroid Excess/Management), p. 319",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "8d837a2e",
+      "type": "The Notebook",
+      "title": "Health Promotion: Immunizations, p. 99",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "2d0a514e",
+      "type": "The Notebook",
+      "title": "Depression, p. 135",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "0a57867a",
+      "type": "The Notebook",
+      "title": "Seizures, p. 195",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "f9f72ee8",
+      "type": "The Notebook",
+      "title": "Parkinson\u2019s Disease, p. 191",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "1256ecf3",
+      "type": "The Notebook",
+      "title": "Concept: Comfort \u2013 Pain, Tissue Integrity, p. 111",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "54a3a69d",
+      "type": "The Notebook",
+      "title": "Acute Pain, p. 113",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "9825c81d",
+      "type": "The Notebook",
+      "title": "Diabetes Insipidus, p. 347",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "3c10cd90",
+      "type": "The Notebook",
+      "title": "Syndrome of Inappropriate Antidiuretic Hormone, p. 349",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "bc3bdd91",
+      "type": "The Notebook",
+      "title": "Addison\u2019s Syndrome/Disease, p. 317",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "f96793fb",
+      "type": "The Notebook",
+      "title": "Cushing\u2019s Syndrome/Disease, p. 319",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "e57d3dad",
+      "type": "The Notebook",
+      "title": "Hyperthyroidism, p. 351",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "b64b57a1",
+      "type": "The Notebook",
+      "title": "Hypothyroidism, p. 353",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "e40144ce",
+      "type": "The Notebook",
+      "title": "Hyperparathyroidism, p. 343",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "4c7d52f1",
+      "type": "The Notebook",
+      "title": "Diabetes Mellitus\u2014Insulin Dependent, p. 335",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "edd778a1",
+      "type": "The Notebook",
+      "title": "Diabetes Mellitus\u2014Non-Insulin Dependent, p. 337",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "8c25bc5e",
+      "type": "The Notebook",
+      "title": "Hypertension, p. 67",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "39914cf9",
+      "type": "The Notebook",
+      "title": "Heart Failure, p. 65",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "476fa04b",
+      "type": "The Notebook",
+      "title": "NurseThink\u00ae Quick: Digoxin Toxicity, p. 66",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "09fc0dfa",
+      "type": "The Notebook",
+      "title": "Acute Coronary Syndrome, p. 59",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "7eda6a5e",
+      "type": "The Notebook",
+      "title": "Atherosclerosis, p. 61",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "f28622cd",
+      "type": "The Notebook",
+      "title": "Coagulation Disorders, p. 51",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "6b2dc74d",
+      "type": "The Notebook",
+      "title": "Deep Vein Thrombosis, p. 73",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "ba7429f8",
+      "type": "The Notebook",
+      "title": "Iron Deficiency Anemia, p. 271",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "c4cb315b",
+      "type": "The Notebook",
+      "title": "Fluid Overload (Diuretic Management), p. 163",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "e8edce82",
+      "type": "The Notebook",
+      "title": "Safety: Urinary Catheter, p. 447",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "eb52011d",
+      "type": "The Notebook",
+      "title": "Asthma, p. 371",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "d417dddb",
+      "type": "The Notebook",
+      "title": "Chronic Obstructive Pulmonary Disease, p. 373",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "6dff6cd5",
+      "type": "The Notebook",
+      "title": "Peptic Ulcer, p. 359",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "fa1a5143",
+      "type": "The Notebook",
+      "title": "Constipation, p. 321",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "95d0277f",
+      "type": "The Notebook",
+      "title": "Diarrhea, p. 323",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "b51c7bc7",
+      "type": "CCC Page",
+      "title": "Ch. 01: The NurseThink\u00ae Way",
+      "description": "Focuses on critical thinking, the nursing process, and best practice study strategies.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "b1115343",
+      "type": "CCC Page",
+      "title": "Ch. 04: Unfolding Concepts II",
+      "description": "Strategies for lifestyle choices, risk reduction, and client education.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "e3817b1b",
+      "type": "CCC Page",
+      "title": "Ch. 02: Next Gen Clinical Judgment",
+      "description": "Covers cultural, spiritual, and developmental assessments.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "4042415b",
+      "type": "CCC Page",
+      "title": "Ch. 15: Adaptation",
+      "description": "Addresses stress, coping mechanisms, and physiological immunity/inflammation.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "dd8574aa",
+      "type": "CCC Page",
+      "title": "Ch. 17: Cognition",
+      "description": "Management of elder abuse, dementia, and Alzheimer\u2019s disease.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "74943731",
+      "type": "CCC Page",
+      "title": "Ch. 14: Comfort",
+      "description": "Priorities for acute and chronic pain management.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "85b13412",
+      "type": "CCC Page",
+      "title": "Ch. 08: Homeostasis",
+      "description": "Regulation of acid-base balance, electrolytes, and fluid volume.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "2c5242b1",
+      "type": "CCC Page",
+      "title": "Ch. 06: Circulation",
+      "description": "Priorities for cardiogenic, hypovolemic, and septic shock.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "81ce08b6",
+      "type": "CCC Page",
+      "title": "Ch. 09: Respiration",
+      "description": "Care for pneumonia, asthma, and chronic obstructive pulmonary disease.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "5d4963fe",
+      "type": "CCC Page",
+      "title": "Ch. 06: Circulation",
+      "description": "Management of ACS, heart failure, and myocardial infarction.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "bbdeb6b3",
+      "type": "CCC Page",
+      "title": "Ch. 06: Circulation",
+      "description": "Monitoring for complications like stroke or heart failure.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "177f43d1",
+      "type": "CCC Page",
+      "title": "Ch. 02: Next Gen Clinical Judgment",
+      "description": "Focuses on safe blood administration, pre-transfusion assessments, and monitoring for transfusion reactions.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "e34f0437",
+      "type": "CCC Page",
+      "title": "Ch. 07: Protection",
+      "description": "Management of iron deficiency and sickle cell crisis, focusing on perfusion and pain management.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "ff938334",
+      "type": "CCC Page",
+      "title": "Ch. 07: Protection",
+      "description": "Nursing care for leukemia and multiple myeloma, specifically addressing infection prevention and bone pain.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "a110f799",
+      "type": "CCC Page",
+      "title": "Ch. 07: Protection",
+      "description": "Clinical mapping for HIV/AIDS, focusing on immune system collapse and opportunistic infections.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "24dee84a",
+      "type": "CCC Page",
+      "title": "Ch. 07: Protection",
+      "description": "Recognition and emergency management of hypersensitivity reactions and anaphylaxis.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "d9dbae0e",
+      "type": "CCC Page",
+      "title": "Ch. 15: Adaptation",
+      "description": "Management of chronic autoimmune conditions like Lupus (SLE) and Rheumatoid Arthritis.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "7b1e5329",
+      "type": "CCC Page",
+      "title": "Ch. 13: Movement",
+      "description": "Care for mobility issues related to osteoarthritis and osteoporosis.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "063b0754",
+      "type": "CCC Page",
+      "title": "Ch. 13: Movement",
+      "description": "Priorities for fracture management, including immobilization and neurovascular checks.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "adb2cca1",
+      "type": "CCC Page",
+      "title": "Ch. 11: Nutrition",
+      "description": "Priorities for Peptic Ulcer Disease, including H. pylori management and GI bleeding risks.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "a3c1167b",
+      "type": "CCC Page",
+      "title": "Ch. 11: Nutrition",
+      "description": "Management of Crohn\u2019s disease and intestinal obstructions.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "770f6af3",
+      "type": "CCC Page",
+      "title": "Ch. 11: Nutrition",
+      "description": "Clinical judgment for liver cirrhosis and the various types of viral hepatitis.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "d27d76d3",
+      "type": "CCC Page",
+      "title": "Ch. 12: Hormonal",
+      "description": "Assessment of thyroid and adrenal gland dysfunctions (Addison's, Hyperthyroidism).",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "91e42a85",
+      "type": "CCC Page",
+      "title": "Ch. 10: Regulation",
+      "description": "Comprehensive care for Type 1 and Type 2 diabetes, DKA, and HHNS.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "311838db",
+      "type": "CCC Page",
+      "title": "Ch. 10: Regulation",
+      "description": "Priorities for Acute Kidney Injury (AKI) and Chronic Kidney Disease (CKD).",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "93b158c2",
+      "type": "CCC Page",
+      "title": "Ch. 13: Movement",
+      "description": "Clinical judgment for cataracts and glaucoma, focusing on safety and sensory perception.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "2399ad47",
+      "type": "CCC Page",
+      "title": "Ch. 17: Cognition",
+      "description": "Care for patients with seizures and increased intracranial pressure.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "def5e5f8",
+      "type": "CCC Page",
+      "title": "Ch. 06: Circulation",
+      "description": "Differentiating between ischemic (embolic) and hemorrhagic stroke interventions.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "1a62993b",
+      "type": "CCC Page",
+      "title": "Ch. 13: Movement",
+      "description": "Nursing priorities for Parkinson\u2019s disease, addressing mobility and safety.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "386436e5",
+      "type": "CCC Page",
+      "title": "Ch. 07: Protection",
+      "description": "Focuses on influenza and tuberculosis transmission prevention and treatment.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "ae06c9dd",
+      "type": "CCC Page",
+      "title": "Ch. 18: Multi-Concept",
+      "description": "Triage and injury prevention for trauma, bites, and environmental emergencies.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "f8ba4b1b",
+      "type": "CCC Page",
+      "title": "Ch. 02: Next Gen Clinical Judgment",
+      "description": "Guidelines for safe medication administration, rights of nursing, and error prevention.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "92c0ae8e",
+      "type": "CCC Page",
+      "title": "Ch. 02: Next Gen Clinical Judgment",
+      "description": "Success tips for mastering math conversions and clinical dosage logic.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "97a6a5ab",
+      "type": "CCC Page",
+      "title": "Ch. 07: Protection",
+      "description": "Priorities for resistant infections like MRSA and VRE, focusing on infection control.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "daa3b768",
+      "type": "CCC Page",
+      "title": "Ch. 07: Protection",
+      "description": "Concept overview of immunity, inflammatory triggers, and protection nursing cues.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "040f1022",
+      "type": "CCC Page",
+      "title": "Ch. 12: Hormonal",
+      "description": "Management of steroid therapy and monitoring for Cushing-like side effects.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "7f31f1f0",
+      "type": "CCC Page",
+      "title": "Ch. 04: Unfolding Concepts II",
+      "description": "Health promotion through immunizations and primary prevention strategies.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "bbff5168",
+      "type": "CCC Page",
+      "title": "Ch. 16: Emotion",
+      "description": "Assessing therapeutic effects and safety risks in patients with clinical depression.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "1cb3111a",
+      "type": "CCC Page",
+      "title": "Ch. 13: Movement",
+      "description": "Monitoring seizure activity, types of seizures (tonic-clonic/absence), and safety cues.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "9a142839",
+      "type": "CCC Page",
+      "title": "Ch. 13: Movement",
+      "description": "Focus on akinesis, rigidity, and the 'Ali Loves Boxing Matches' med mnemonic.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "3129b4a8",
+      "type": "CCC Page",
+      "title": "Ch. 14: Comfort",
+      "description": "Priorities for comfort and acute pain management, including respiratory monitoring.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "35881194",
+      "type": "CCC Page",
+      "title": "Ch. 12: Hormonal",
+      "description": "Managing antidiuretic hormone imbalances and associated fluid volume cues.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "b07c7907",
+      "type": "CCC Page",
+      "title": "Ch. 12: Hormonal",
+      "description": "Nursing care for cortisol imbalances (Addison's vs. Cushing's Syndrome).",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "edc524ce",
+      "type": "CCC Page",
+      "title": "Ch. 12: Hormonal",
+      "description": "Assessing metabolic regulation, tremors, and temperature intolerance.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "e6e16451",
+      "type": "CCC Page",
+      "title": "Ch. 10: Regulation",
+      "description": "Focus on the '3 P's' (polyuria, polydipsia, polyphagia) and hypoglycemia risks.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "33105903",
+      "type": "CCC Page",
+      "title": "Ch. 06: Circulation",
+      "description": "Managing hypertension with the 'ABCD' treatment logic and monitoring for TIA.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "dfed58a4",
+      "type": "CCC Page",
+      "title": "Ch. 06: Circulation",
+      "description": "Managing HF using 'UNLOAD FAST' and monitoring for Digoxin toxicity (VANBAD).",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "3f2c668e",
+      "type": "CCC Page",
+      "title": "Ch. 06: Circulation",
+      "description": "Using 'MONAH' for acute coronary syndrome and managing atherosclerosis.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "b9a61e42",
+      "type": "CCC Page",
+      "title": "Ch. 06: Circulation",
+      "description": "Focus on DIC, DVT prevention, and pulmonary embolism (PE) risk factors.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "4665f978",
+      "type": "CCC Page",
+      "title": "Ch. 07: Protection",
+      "description": "Priorities for iron deficiency and sickle cell anemia management.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "14237627",
+      "type": "CCC Page",
+      "title": "Ch. 08: Homeostasis",
+      "description": "Assessing fluid overload, edema, and effectiveness of loop vs. thiazide diuretics.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "09d9a565",
+      "type": "CCC Page",
+      "title": "Ch. 09: Respiration",
+      "description": "Use of adrenergics and steroids to manage pink puffers (emphysema) vs. blue bloaters.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "4681e43d",
+      "type": "CCC Page",
+      "title": "Ch. 11: Nutrition",
+      "description": "Treatment for Peptic Ulcer Disease and H. pylori ('Please Make Tummy Better').",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "b71aa3be",
+      "type": "CCC Page",
+      "title": "Ch. 11: Nutrition",
+      "description": "Care for elimination abnormalities and colostomy/ileostomy procedures.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "faca42cf",
+      "type": "CJ Sim",
+      "title": "Simon Andrews",
+      "description": "68-year-old male presenting with signs of severe dehydration, including poor skin turgor and dark urine.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "155292b8",
+      "type": "CJ Sim",
+      "title": "Ashley Johnson",
+      "description": "44-year-old female in the Stepdown Unit being monitored for septic shock following a severe infection.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "98119197",
+      "type": "CJ Sim",
+      "title": "Walter McCaffery",
+      "description": "69-year-old male diagnosed with pulmonary tuberculosis; requires isolation and long-term anti-TB drug therapy.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "2f0e99ea",
+      "type": "CJ Sim",
+      "title": "Tyrone Baker",
+      "description": "33-year-old male with a history of chronic asthma presenting with acute wheezing and shortness of breath.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "ae713c70",
+      "type": "CJ Sim",
+      "title": "Jedidiah Billings",
+      "description": "60-year-old male with heart failure experiencing peripheral edema and orthopnea.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "12089e86",
+      "type": "CJ Sim",
+      "title": "Lorna Anderson",
+      "description": "68-year-old female on the Medical Unit with a suspected deep vein thrombosis in her left lower extremity.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "258fea0e",
+      "type": "CJ Sim",
+      "title": "Collete Youncy",
+      "description": "51-year-old female managing rheumatoid arthritis; focuses on joint protection and inflammatory triggers.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "eabb66dd",
+      "type": "CJ Sim",
+      "title": "Jack Armstrong",
+      "description": "52-year-old male scheduled for physical therapy due to advanced osteoarthritis in both knees.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "2c851a98",
+      "type": "CJ Sim",
+      "title": "Willow Gussma",
+      "description": "22-year-old female presenting to the ED with acute RLQ pain and nausea, indicative of appendicitis.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "2af77f68",
+      "type": "CJ Sim",
+      "title": "Jenna Batch",
+      "description": "37-year-old female seeking consultation for metabolic syndrome and obesity management.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "93d9ee8f",
+      "type": "CJ Sim",
+      "title": "Peggy Sue Allen",
+      "description": "72-year-old female presenting with fatigue and cold intolerance, characteristic of hypothyroidism.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "dd738164",
+      "type": "CJ Sim",
+      "title": "Sidney Barnes",
+      "description": "31-year-old female experiencing acute kidney injury following a severe trauma.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "6e2b569f",
+      "type": "CJ Sim",
+      "title": "Roxy Hillside",
+      "description": "20-year-old female admitted to the Surgical Care Unit with partial-thickness burns on her upper extremities.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "cabe58a6",
+      "type": "CJ Sim",
+      "title": "Avery Dawson",
+      "description": "26-year-old female requiring medication reconciliation and education on safe medication use.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "0b6dfe5d",
+      "type": "CJ Sim",
+      "title": "Thor Smyth",
+      "description": "27-year-old male in the Mental Health Unit being started on antidepressant therapy for major depressive disorder.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "3373f332",
+      "type": "CJ Sim",
+      "title": "Earl Duckworth",
+      "description": "58-year-old male requiring multi-drug therapy to manage chronic, resistant hypertension.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "de917a49",
+      "type": "CJ Sim",
+      "title": "Sadrac Joicin",
+      "description": "51-year-old male receiving Digoxin for heart failure; requires monitoring for toxicity and electrolyte balance.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "f3d54c11",
+      "type": "CJ Sim",
+      "title": "Henrique Ramirez",
+      "description": "8-year-old male in the Pediatric Unit requiring inhaled bronchodilators and steroids for asthma management.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "5d71d25b",
+      "type": "CJ Sim",
+      "title": "Madilynn Weaver",
+      "description": "27-year-old female with peptic ulcer disease requiring education on proton pump inhibitors and antacids.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "6fa522e2",
+      "type": "Interactive Case Study",
+      "title": "Fluids and Electrolyte Imbalance",
+      "description": "Regulation of body fluids, acid-base balance, and electrolyte gain/loss.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "9459ee67",
+      "type": "Interactive Case Study",
+      "title": "Pneumonia",
+      "description": "Managing infectious pulmonary disorders and gas exchange.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "c7c31109",
+      "type": "Interactive Case Study",
+      "title": "Chronic Obstructive Pulmonary Disease (COPD)",
+      "description": "Managing \"pink puffers\" vs. \"blue bloaters\" and respiratory depression.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "ad633d5b",
+      "type": "Interactive Case Study",
+      "title": "Angina; Myocardial Infarction",
+      "description": "Utilizing \"MONAH\" and managing acute coronary syndrome.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "fa40edd2",
+      "type": "Interactive Case Study",
+      "title": "Heart Failure; Pulmonary Edema",
+      "description": "Priorities for \"UNLOAD FAST\" and decreasing afterload.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "6be155bf",
+      "type": "Interactive Case Study",
+      "title": "Chronic Obstructive Pulmonary Disease and Peripheral Vascular Disease",
+      "description": "Managing deep vein thrombosis (DVT) and arterial clotting risks.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "96414fbb",
+      "type": "Interactive Case Study",
+      "title": "Hypertension",
+      "description": "Monitoring for complications like stroke or heart failure.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "50c0c037",
+      "type": "Interactive Case Study",
+      "title": "Systemic Lupus Erythematosus",
+      "description": "Addressing \"Soap Brain MD\" symptoms and immunologic triggers.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "e5ae6d7f",
+      "type": "Interactive Case Study",
+      "title": "Osteoarthritis; Wounds",
+      "description": "Mobility priorities and tissue integrity for degenerative joints.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "e46ae435",
+      "type": "Interactive Case Study",
+      "title": "Fracture",
+      "description": "Managing \"BLT Lard\" (Bone, Location, Type) and neurovascular checks.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "7ab346ab",
+      "type": "Interactive Case Study",
+      "title": "Hyperthyroidism; Hypothyroidism",
+      "description": "Managing metabolic regulation and potential \"Thyroid Storm\" .",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "9594da91",
+      "type": "Interactive Case Study",
+      "title": "Diabetes; Type 2 Diabetes Mellitus",
+      "description": "Focus on the \"3 P's\" and insulin vs. non-insulin dependency.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "e21f0432",
+      "type": "Interactive Case Study",
+      "title": "Acute Kidney Injury; Chronic Kidney Disease",
+      "description": "Managing \"AEIOU\" (Anemia, Electrolytes, Infection, Other, Uremia).",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "f2d528ef",
+      "type": "Interactive Case Study",
+      "title": "Drug Administration and Medication Safety",
+      "description": "Preventing medication errors and following safety protocols.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "29dee7e3",
+      "type": "Interactive Case Study",
+      "title": "Pharmacologic Treatment of Depression",
+      "description": "Assessing therapeutic effects and psychotropic side effects.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "5d5379f9",
+      "type": "Interactive Case Study",
+      "title": "Pharmacologic Treatment of Epilepsy",
+      "description": "Monitoring \"FACT\" (Focus, Activity, Color, Time) for seizures.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "86577a3f",
+      "type": "Interactive Case Study",
+      "title": "Pharmacologic Treatment of Parkinson and Alzheimer Diseases",
+      "description": "Assessing therapeutic effects and psychotropic side effects.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "92f2e82a",
+      "type": "Interactive Case Study",
+      "title": "Pharmacologic Treatment of Stroke",
+      "description": "Managing embolic vs. hemorrhagic stroke pharmacotherapy.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "8520d3d5",
+      "type": "Interactive Case Study",
+      "title": "Pharmacologic Treatment of Diabetes",
+      "description": "Managing \"Hot and Dry\" (High Sugar) vs. \"Cold and Clammy\" (Low Sugar).",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "9e59d4b1",
+      "type": "Interactive Case Study",
+      "title": "Pharmacologic Treatment of Hypertension",
+      "description": "Utilizing \"ABCD\" treatment logic (ACE, Beta blockers, Calcium, Diuretics).",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "7e0575a2",
+      "type": "Interactive Case Study",
+      "title": "Pharmacologic Treatment of Myocardial Ischemia",
+      "description": "Utilization of nitroglycerin and managing angina pectoris.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "e6e32182",
+      "type": "Interactive Case Study",
+      "title": "Pharmacologic Treatment of Asthma",
+      "description": "Utilizing \"ASTHMA\" treatment priorities (Adrenergics, Steroids, Theophyllines, etc.).",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "4126e7bd",
+      "type": "Interactive Case Study",
+      "title": "Pharmacologic Treatment of Peptic Ulcer Disease",
+      "description": "Utilizing \"Please Make Tummy Better\" treatment for H. pylori.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "4f8139c3",
+      "type": "vSim",
+      "title": "Jennifer Hoffman",
+      "description": "A 33-year-old female presenting in severe respiratory distress with an acute asthma exacerbation.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "f7da3398",
+      "type": "vSim",
+      "title": "Kenneth Bronson",
+      "description": "A 27-year-old male with fever, difficulty breathing, and chest tightness; diagnosed with right lower lobe pneumonia.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "1231952b",
+      "type": "vSim",
+      "title": "Vincent Brody",
+      "description": "A 67-year-old male smoker presenting with wheezing and a productive cough due to a COPD exacerbation.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "e2e90851",
+      "type": "vSim",
+      "title": "Carl Shapiro",
+      "description": "A 54-year-old male with a history of hypertension presenting with chest pain and diaphoresis; diagnosed with NSTEMI.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "e215de5a",
+      "type": "vSim",
+      "title": "Marilyn Hughes",
+      "description": "A 45-year-old female POD 0 following an ORIF procedure for a mid-shaft tibia-fibula fracture.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "87faad8a",
+      "type": "vSim",
+      "title": "Stan Checketts",
+      "description": "A 52-year-old male with severe abdominal pain, nausea, and vomiting; diagnosed with a suspected small bowel obstruction.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "89c7548f",
+      "type": "vSim",
+      "title": "Skyler Hansen",
+      "description": "An 18-year-old male with Type 1 diabetes presenting with confusion and acting \"weird\" after exercise; diagnosed with hypoglycemia.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "031ae3a2",
+      "type": "vSim",
+      "title": "Doris Bowman",
+      "description": "A 39-year-old female in the PACU following a total abdominal hysterectomy for uterine fibroids.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "9aa4d5b6",
+      "type": "vSim",
+      "title": "Vernon Watkins",
+      "description": "A 69-year-old male POD 4 following a left hemicolectomy; primary clinical risk is a pulmonary embolism.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "046878f2",
+      "type": "vSim",
+      "title": "Lloyd Bennett",
+      "description": "A 76-year-old male POD 1 following a left hip arthroplasty requiring a blood transfusion for low hemoglobin.",
+      "class": "Basic Adult Healthcare"
+    },
+    {
+      "id": "33c42ef9",
+      "type": "vSim",
+      "title": "Harry Hadley",
+      "description": "A patient with a MRSA infection receiving IV Vancomycin for cellulitis.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "9d69ff96",
+      "type": "vSim",
+      "title": "Suzanne Morris",
+      "description": "Management of Clostridioides difficile infection and adverse drug effects related to antibiotic use.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "612fc3a0",
+      "type": "vSim",
+      "title": "Jermaine Jones",
+      "description": "Management of mental health and depression focusing on drug and alcohol interactions.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "d406c2fe",
+      "type": "vSim",
+      "title": "Daniella Young Bear",
+      "description": "Medication reconciliation and pain management focusing on opioid and antidepressant drug interactions.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "a33c3d8e",
+      "type": "vSim",
+      "title": "Yoa Li",
+      "description": "Post-operative pain management utilizing Patient-Controlled Analgesia (PCA) with morphine.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "7f22b6d8",
+      "type": "vSim",
+      "title": "Juan Carlos",
+      "description": "Diabetes management focusing on insulin therapy, oral hypoglycemics, and hypoglycemia risk.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "e05ce6c1",
+      "type": "vSim",
+      "title": "Mary Richards",
+      "description": "Heart Failure management with a focus on identifying and treating Digoxin toxicity.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "11c33389",
+      "type": "vSim",
+      "title": "Junetta Cooper",
+      "description": "Angina and Coronary Artery Disease management focusing on Nitroglycerin therapy.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "4fe412c7",
+      "type": "vSim",
+      "title": "Rachael Heidebrink",
+      "description": "Post-surgical anticoagulation therapy (Apixaban and Fondaparinux) following hip surgery.",
+      "class": "Pharmacology"
+    },
+    {
+      "id": "e2988a0b",
+      "type": "vSim",
+      "title": "Toua Xiong",
+      "description": "Chronic Obstructive Pulmonary Disease (COPD) management focusing on inhaler and oxygen therapy.",
+      "class": "Pharmacology"
+    }
+  ]
+}

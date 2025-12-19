@@ -1,0 +1,1230 @@
+{
+  "chapters": [
+    {
+      "id": "Bas-1",
+      "class": "Basic Adult Healthcare",
+      "number": "1",
+      "title": "Professional Nursing Practice",
+      "full_title": "Chapter 1: Professional Nursing Practice",
+      "keywords": []
+    },
+    {
+      "id": "Bas-2",
+      "class": "Basic Adult Healthcare",
+      "number": "2",
+      "title": "Medical-Surgical Nursing",
+      "full_title": "Chapter 2: Medical-Surgical Nursing",
+      "keywords": []
+    },
+    {
+      "id": "Bas-3",
+      "class": "Basic Adult Healthcare",
+      "number": "3",
+      "title": "Health Education and Health Promotion",
+      "full_title": "Chapter 3: Health Education and Health Promotion",
+      "keywords": []
+    },
+    {
+      "id": "Bas-4",
+      "class": "Basic Adult Healthcare",
+      "number": "4",
+      "title": "Adult Health and Physical, Nutritional, and Cultural Assessment",
+      "full_title": "Chapter 4: Adult Health and Physical, Nutritional, and Cultural Assessment",
+      "keywords": []
+    },
+    {
+      "id": "Bas-5",
+      "class": "Basic Adult Healthcare",
+      "number": "5",
+      "title": "Stress and Inflammatory Responses",
+      "full_title": "Chapter 5: Stress and Inflammatory Responses",
+      "keywords": []
+    },
+    {
+      "id": "Bas-6",
+      "class": "Basic Adult Healthcare",
+      "number": "6",
+      "title": "Genetics and Genomics in Nursing",
+      "full_title": "Chapter 6: Genetics and Genomics in Nursing",
+      "keywords": []
+    },
+    {
+      "id": "Bas-7",
+      "class": "Basic Adult Healthcare",
+      "number": "7",
+      "title": "Disability and Chronic Illness",
+      "full_title": "Chapter 7: Disability and Chronic Illness",
+      "keywords": []
+    },
+    {
+      "id": "Bas-8",
+      "class": "Basic Adult Healthcare",
+      "number": "8",
+      "title": "Management of the Older Adult Patient",
+      "full_title": "Chapter 8: Management of the Older Adult Patient",
+      "keywords": []
+    },
+    {
+      "id": "Bas-9",
+      "class": "Basic Adult Healthcare",
+      "number": "9",
+      "title": "Pain Management",
+      "full_title": "Chapter 9: Pain Management",
+      "keywords": []
+    },
+    {
+      "id": "Bas-10",
+      "class": "Basic Adult Healthcare",
+      "number": "10",
+      "title": "Fluid and Electrolytes",
+      "full_title": "Chapter 10: Fluid and Electrolytes",
+      "keywords": []
+    },
+    {
+      "id": "Pha-1",
+      "class": "Pharmacology",
+      "number": "1",
+      "title": "Introduction to Drugs",
+      "full_title": "Chapter 1: Introduction to Drugs",
+      "keywords": []
+    },
+    {
+      "id": "Pha-2",
+      "class": "Pharmacology",
+      "number": "2",
+      "title": "Drugs and the Body",
+      "full_title": "Chapter 2: Drugs and the Body",
+      "keywords": []
+    },
+    {
+      "id": "Pha-3",
+      "class": "Pharmacology",
+      "number": "3",
+      "title": "Toxic Effects of Drugs",
+      "full_title": "Chapter 3: Toxic Effects of Drugs",
+      "keywords": []
+    },
+    {
+      "id": "Pha-4",
+      "class": "Pharmacology",
+      "number": "4",
+      "title": "The Nursing Process in Drug Therapy and Patient Safety",
+      "full_title": "Chapter 4: The Nursing Process in Drug Therapy and Patient Safety",
+      "keywords": []
+    },
+    {
+      "id": "Pha-5",
+      "class": "Pharmacology",
+      "number": "5",
+      "title": "Dosage Calculations",
+      "full_title": "Chapter 5: Dosage Calculations",
+      "keywords": []
+    },
+    {
+      "id": "Pha-6",
+      "class": "Pharmacology",
+      "number": "6",
+      "title": "Challenges to Effective Drug Therapy",
+      "full_title": "Chapter 6: Challenges to Effective Drug Therapy",
+      "keywords": []
+    },
+    {
+      "id": "Pha-7",
+      "class": "Pharmacology",
+      "number": "7",
+      "title": "Introduction to Cell Physiology",
+      "full_title": "Chapter 7: Introduction to Cell Physiology",
+      "keywords": []
+    },
+    {
+      "id": "Pha-8",
+      "class": "Pharmacology",
+      "number": "8",
+      "title": "Anti-infective Agents",
+      "full_title": "Chapter 8: Anti-infective Agents",
+      "keywords": []
+    },
+    {
+      "id": "Pha-9",
+      "class": "Pharmacology",
+      "number": "9",
+      "title": "Antibiotic Agents",
+      "full_title": "Chapter 9: Antibiotic Agents",
+      "keywords": []
+    },
+    {
+      "id": "Pha-10",
+      "class": "Pharmacology",
+      "number": "10",
+      "title": "Antiviral Agents",
+      "full_title": "Chapter 10: Antiviral Agents",
+      "keywords": []
+    },
+    {
+      "id": "Pha-11",
+      "class": "Pharmacology",
+      "number": "11",
+      "title": "Antifungal Agents",
+      "full_title": "Chapter 11: Antifungal Agents",
+      "keywords": []
+    },
+    {
+      "id": "Pha-12",
+      "class": "Pharmacology",
+      "number": "12",
+      "title": "Antiprotozoal Agents",
+      "full_title": "Chapter 12: Antiprotozoal Agents",
+      "keywords": []
+    },
+    {
+      "id": "Pha-13",
+      "class": "Pharmacology",
+      "number": "13",
+      "title": "Anthelmintic Agents",
+      "full_title": "Chapter 13: Anthelmintic Agents",
+      "keywords": []
+    },
+    {
+      "id": "Pha-14",
+      "class": "Pharmacology",
+      "number": "14",
+      "title": "Antineoplastic Agents",
+      "full_title": "Chapter 14: Antineoplastic Agents",
+      "keywords": []
+    },
+    {
+      "id": "Pha-15",
+      "class": "Pharmacology",
+      "number": "15",
+      "title": "Introduction to the Immune Response and Inflammation",
+      "full_title": "Chapter 15: Introduction to the Immune Response and Inflammation",
+      "keywords": []
+    },
+    {
+      "id": "Pha-16",
+      "class": "Pharmacology",
+      "number": "16",
+      "title": "Antiinflammatory, Antiarthritis, and Related Agents",
+      "full_title": "Chapter 16: Antiinflammatory, Antiarthritis, and Related Agents",
+      "keywords": []
+    },
+    {
+      "id": "Pha-17",
+      "class": "Pharmacology",
+      "number": "17",
+      "title": "Immune Modulators",
+      "full_title": "Chapter 17: Immune Modulators",
+      "keywords": []
+    },
+    {
+      "id": "Pha-18",
+      "class": "Pharmacology",
+      "number": "18",
+      "title": "Vaccines and Sera",
+      "full_title": "Chapter 18: Vaccines and Sera",
+      "keywords": []
+    },
+    {
+      "id": "Pha-19",
+      "class": "Pharmacology",
+      "number": "19",
+      "title": "Introduction to Nerves and the Nervous System",
+      "full_title": "Chapter 19: Introduction to Nerves and the Nervous System",
+      "keywords": []
+    },
+    {
+      "id": "Pha-20",
+      "class": "Pharmacology",
+      "number": "20",
+      "title": "Anxiolytic and Hypnotic Agents",
+      "full_title": "Chapter 20: Anxiolytic and Hypnotic Agents",
+      "keywords": []
+    },
+    {
+      "id": "Pha-21",
+      "class": "Pharmacology",
+      "number": "21",
+      "title": "Antidepressant Agents",
+      "full_title": "Chapter 21: Antidepressant Agents",
+      "keywords": []
+    },
+    {
+      "id": "Pha-22",
+      "class": "Pharmacology",
+      "number": "22",
+      "title": "Psychotherapeutic Agents",
+      "full_title": "Chapter 22: Psychotherapeutic Agents",
+      "keywords": []
+    },
+    {
+      "id": "Pha-23",
+      "class": "Pharmacology",
+      "number": "23",
+      "title": "Antiseizure Agents",
+      "full_title": "Chapter 23: Antiseizure Agents",
+      "keywords": []
+    },
+    {
+      "id": "Pha-24",
+      "class": "Pharmacology",
+      "number": "24",
+      "title": "Antiparkinsonism Agents",
+      "full_title": "Chapter 24: Antiparkinsonism Agents",
+      "keywords": []
+    },
+    {
+      "id": "Pha-25",
+      "class": "Pharmacology",
+      "number": "25",
+      "title": "Muscle Relaxants",
+      "full_title": "Chapter 25: Muscle Relaxants",
+      "keywords": []
+    },
+    {
+      "id": "Pha-26",
+      "class": "Pharmacology",
+      "number": "26",
+      "title": "Opioid Agonists, Opioid Antagonists, and Antimigraine Agents",
+      "full_title": "Chapter 26: Opioid Agonists, Opioid Antagonists, and Antimigraine Agents",
+      "keywords": []
+    },
+    {
+      "id": "Pha-27",
+      "class": "Pharmacology",
+      "number": "27",
+      "title": "General and Local Anesthetic Agents",
+      "full_title": "Chapter 27: General and Local Anesthetic Agents",
+      "keywords": []
+    },
+    {
+      "id": "Pha-28",
+      "class": "Pharmacology",
+      "number": "28",
+      "title": "Neuromuscular Junction Blocking Agents",
+      "full_title": "Chapter 28: Neuromuscular Junction Blocking Agents",
+      "keywords": []
+    },
+    {
+      "id": "Pha-29",
+      "class": "Pharmacology",
+      "number": "29",
+      "title": "Introduction to the Autonomic Nervous System",
+      "full_title": "Chapter 29: Introduction to the Autonomic Nervous System",
+      "keywords": []
+    },
+    {
+      "id": "Pha-30",
+      "class": "Pharmacology",
+      "number": "30",
+      "title": "Adrenergic Agonists",
+      "full_title": "Chapter 30: Adrenergic Agonists",
+      "keywords": []
+    },
+    {
+      "id": "Pha-31",
+      "class": "Pharmacology",
+      "number": "31",
+      "title": "Adrenergic Antagonists",
+      "full_title": "Chapter 31: Adrenergic Antagonists",
+      "keywords": []
+    },
+    {
+      "id": "Pha-32",
+      "class": "Pharmacology",
+      "number": "32",
+      "title": "Cholinergic Agonists",
+      "full_title": "Chapter 32: Cholinergic Agonists",
+      "keywords": []
+    },
+    {
+      "id": "Pha-33",
+      "class": "Pharmacology",
+      "number": "33",
+      "title": "Anticholinergic Agents",
+      "full_title": "Chapter 33: Anticholinergic Agents",
+      "keywords": []
+    },
+    {
+      "id": "Pha-34",
+      "class": "Pharmacology",
+      "number": "34",
+      "title": "Introduction to the Endocrine System",
+      "full_title": "Chapter 34: Introduction to the Endocrine System",
+      "keywords": []
+    },
+    {
+      "id": "Pha-35",
+      "class": "Pharmacology",
+      "number": "35",
+      "title": "Hypothalamic and Pituitary Agents",
+      "full_title": "Chapter 35: Hypothalamic and Pituitary Agents",
+      "keywords": []
+    },
+    {
+      "id": "Pha-36",
+      "class": "Pharmacology",
+      "number": "36",
+      "title": "Adrenocortical Agents",
+      "full_title": "Chapter 36: Adrenocortical Agents",
+      "keywords": []
+    },
+    {
+      "id": "Pha-37",
+      "class": "Pharmacology",
+      "number": "37",
+      "title": "Thyroid and Parathyroid Agents",
+      "full_title": "Chapter 37: Thyroid and Parathyroid Agents",
+      "keywords": []
+    },
+    {
+      "id": "Pha-38",
+      "class": "Pharmacology",
+      "number": "38",
+      "title": "Agents to Control Blood Glucose Levels",
+      "full_title": "Chapter 38: Agents to Control Blood Glucose Levels",
+      "keywords": []
+    },
+    {
+      "id": "Pha-39",
+      "class": "Pharmacology",
+      "number": "39",
+      "title": "Introduction to the Reproductive System",
+      "full_title": "Chapter 39: Introduction to the Reproductive System",
+      "keywords": []
+    },
+    {
+      "id": "Pha-40",
+      "class": "Pharmacology",
+      "number": "40",
+      "title": "Drugs Affecting the Female Reproductive System",
+      "full_title": "Chapter 40: Drugs Affecting the Female Reproductive System",
+      "keywords": []
+    },
+    {
+      "id": "Pha-41",
+      "class": "Pharmacology",
+      "number": "41",
+      "title": "Drugs Affecting the Male Reproductive System",
+      "full_title": "Chapter 41: Drugs Affecting the Male Reproductive System",
+      "keywords": []
+    },
+    {
+      "id": "Pha-42",
+      "class": "Pharmacology",
+      "number": "42",
+      "title": "Introduction to the Cardiovascular System",
+      "full_title": "Chapter 42: Introduction to the Cardiovascular System",
+      "keywords": []
+    },
+    {
+      "id": "Pha-43",
+      "class": "Pharmacology",
+      "number": "43",
+      "title": "Drugs Affecting Blood Pressure",
+      "full_title": "Chapter 43: Drugs Affecting Blood Pressure",
+      "keywords": []
+    },
+    {
+      "id": "Pha-44",
+      "class": "Pharmacology",
+      "number": "44",
+      "title": "Agents for Treating Heart Failure",
+      "full_title": "Chapter 44: Agents for Treating Heart Failure",
+      "keywords": []
+    },
+    {
+      "id": "Pha-45",
+      "class": "Pharmacology",
+      "number": "45",
+      "title": "Antiarrhythmic Agents",
+      "full_title": "Chapter 45: Antiarrhythmic Agents",
+      "keywords": []
+    },
+    {
+      "id": "Pha-46",
+      "class": "Pharmacology",
+      "number": "46",
+      "title": "Antianginal Agents",
+      "full_title": "Chapter 46: Antianginal Agents",
+      "keywords": []
+    },
+    {
+      "id": "Pha-47",
+      "class": "Pharmacology",
+      "number": "47",
+      "title": "Lipid-Lowering Agents",
+      "full_title": "Chapter 47: Lipid-Lowering Agents",
+      "keywords": []
+    },
+    {
+      "id": "Pha-48",
+      "class": "Pharmacology",
+      "number": "48",
+      "title": "Drugs Affecting Blood Coagulation",
+      "full_title": "Chapter 48: Drugs Affecting Blood Coagulation",
+      "keywords": []
+    },
+    {
+      "id": "Pha-49",
+      "class": "Pharmacology",
+      "number": "49",
+      "title": "Drugs Used to Treat Anemias",
+      "full_title": "Chapter 49: Drugs Used to Treat Anemias",
+      "keywords": []
+    },
+    {
+      "id": "Pha-50",
+      "class": "Pharmacology",
+      "number": "50",
+      "title": "Introduction to the Renal System",
+      "full_title": "Chapter 50: Introduction to the Renal System",
+      "keywords": []
+    },
+    {
+      "id": "Pha-51",
+      "class": "Pharmacology",
+      "number": "51",
+      "title": "Diuretic Agents",
+      "full_title": "Chapter 51: Diuretic Agents",
+      "keywords": []
+    },
+    {
+      "id": "Pha-52",
+      "class": "Pharmacology",
+      "number": "52",
+      "title": "Drugs Affecting the Urinary Tract and the Bladder",
+      "full_title": "Chapter 52: Drugs Affecting the Urinary Tract and the Bladder",
+      "keywords": []
+    },
+    {
+      "id": "Pha-53",
+      "class": "Pharmacology",
+      "number": "53",
+      "title": "Introduction to the Respiratory System",
+      "full_title": "Chapter 53: Introduction to the Respiratory System",
+      "keywords": []
+    },
+    {
+      "id": "Pha-54",
+      "class": "Pharmacology",
+      "number": "54",
+      "title": "Drugs Acting on the Upper Respiratory Tract",
+      "full_title": "Chapter 54: Drugs Acting on the Upper Respiratory Tract",
+      "keywords": []
+    },
+    {
+      "id": "Pha-55",
+      "class": "Pharmacology",
+      "number": "55",
+      "title": "Drugs Acting on the Lower Respiratory Tract",
+      "full_title": "Chapter 55: Drugs Acting on the Lower Respiratory Tract",
+      "keywords": []
+    },
+    {
+      "id": "Pha-56",
+      "class": "Pharmacology",
+      "number": "56",
+      "title": "Introduction to the Gastrointestinal System",
+      "full_title": "Chapter 56: Introduction to the Gastrointestinal System",
+      "keywords": []
+    },
+    {
+      "id": "Pha-57",
+      "class": "Pharmacology",
+      "number": "57",
+      "title": "Drugs Affecting Gastrointestinal Secretions",
+      "full_title": "Chapter 57: Drugs Affecting Gastrointestinal Secretions",
+      "keywords": []
+    },
+    {
+      "id": "Pha-58",
+      "class": "Pharmacology",
+      "number": "58",
+      "title": "Drugs Affecting Gastrointestinal Motility",
+      "full_title": "Chapter 58: Drugs Affecting Gastrointestinal Motility",
+      "keywords": []
+    },
+    {
+      "id": "Pha-59",
+      "class": "Pharmacology",
+      "number": "59",
+      "title": "Antiemetic Agents",
+      "full_title": "Chapter 59: Antiemetic Agents",
+      "keywords": []
+    },
+    {
+      "id": "Pha-60",
+      "class": "Pharmacology",
+      "number": "60",
+      "title": "Vitamins, Minerals, and Complementary/Alternative Medications",
+      "full_title": "Chapter 60: Vitamins, Minerals, and Complementary/Alternative Medications",
+      "keywords": []
+    }
+  ],
+  "resources": [
+    {
+      "type": "vSim",
+      "class": "Basic Adult Healthcare",
+      "title": "Medical Scenario 1: Kenneth Bronson",
+      "keywords": [],
+      "description": "Right lower lobe pneumonia"
+    },
+    {
+      "type": "vSim",
+      "class": "Basic Adult Healthcare",
+      "title": "Medical Scenario 2: Jennifer Hoffman",
+      "keywords": [],
+      "description": "Acute asthma exacerbation"
+    },
+    {
+      "type": "vSim",
+      "class": "Basic Adult Healthcare",
+      "title": "Medical Scenario 3: Vincent Brody",
+      "keywords": [],
+      "description": "COPD exacerbation"
+    },
+    {
+      "type": "vSim",
+      "class": "Basic Adult Healthcare",
+      "title": "Medical Scenario 4: Carl Shapiro",
+      "keywords": [],
+      "description": "Non-ST elevation acute coronary syndrome (NSTEMI)"
+    },
+    {
+      "type": "vSim",
+      "class": "Basic Adult Healthcare",
+      "title": "Medical Scenario 5: Skyler Hansen",
+      "keywords": [],
+      "description": "Hypoglycemia"
+    },
+    {
+      "type": "vSim",
+      "class": "Basic Adult Healthcare",
+      "title": "Surgical Scenario 1: Marilyn Hughes",
+      "keywords": []
+    },
+    {
+      "type": "vSim",
+      "class": "Basic Adult Healthcare",
+      "title": "Surgical Scenario 2: Stan Checketts",
+      "keywords": [],
+      "description": "Suspected small bowel obstruction"
+    },
+    {
+      "type": "vSim",
+      "class": "Basic Adult Healthcare",
+      "title": "Surgical Scenario 3: Doris Bowman",
+      "keywords": []
+    },
+    {
+      "type": "vSim",
+      "class": "Basic Adult Healthcare",
+      "title": "Surgical Scenario 4: Vernon Watkins",
+      "keywords": []
+    },
+    {
+      "type": "vSim",
+      "class": "Basic Adult Healthcare",
+      "title": "Surgical Scenario 5: Lloyd Bennett",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Angina",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Coronary Artery Disease",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Dysrhythmia",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Heart Failure",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Hypertension",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Myocardial Infarction",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Pulmonary Edema",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Type 2 Diabetes Mellitus, Hypertension, and Coronary Artery Disease",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Acute Respiratory Distress Syndrome",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Chronic Obstructive Pulmonary Disease (COPD)",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Chronic Obstructive Pulmonary Disease (COPD) and Peripheral Vascular Disease",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Pneumonia",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Acute Kidney Injury",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Chronic Kidney Disease",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Fluids and Electrolyte Imbalance",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Lower Urinary Tract Infection",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Acute Spinal Cord Injury",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Hemorrhagic Stroke",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Increased Intracranial Pressure",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Ischemic Stroke",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Meniere\u2019s Disease",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Multiple Sclerosis",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Diabetes",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Hyperthyroidism",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Hypothyroidism",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Type 2 Diabetes Mellitus and Renal Insufficiency",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Acute Pancreatitis",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Hepatic Cirrhosis",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Inflammatory Bowel Disease",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Peptic Ulcer",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Amputation",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Fracture",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Osteoarthritis",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Wounds",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Burns",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Breast Cancer",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Prostate Cancer",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Systemic Lupus Erythematosus",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Pain",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Basic Adult Healthcare",
+      "title": "Glaucoma",
+      "keywords": []
+    },
+    {
+      "type": "vSim",
+      "class": "Pharmacology",
+      "title": "Next-Gen vSim: Pharmacology Scenarios",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Pharmacology",
+      "title": "Administering a Subcutaneous Injection",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Pharmacology",
+      "title": "Drug Administration and Medication Safety",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Pharmacology",
+      "title": "Assessing Blood Pressure",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Pharmacology",
+      "title": "Older Adults with Beers Criteria",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Pharmacology",
+      "title": "Anti-Infective Agents",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Pharmacology",
+      "title": "Anti-Inflammatory Medications",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Pharmacology",
+      "title": "Antiviral Agents",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Pharmacology",
+      "title": "Opioids and Substance Abuse",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Pharmacology",
+      "title": "Pharmacologic Treatment of Depression",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Pharmacology",
+      "title": "Pharmacologic Treatment of Epilepsy",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Pharmacology",
+      "title": "Pharmacologic Treatment of Parkinson and Alzheimer Diseases",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Pharmacology",
+      "title": "Pharmacologic Treatment of Asthma",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Pharmacology",
+      "title": "Pharmacologic Treatment of Hypertension",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Pharmacology",
+      "title": "Pharmacologic Treatment of Myocardial Ischemia",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Pharmacology",
+      "title": "Pharmacologic Treatment of Stroke",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Pharmacology",
+      "title": "Pharmacologic Treatment of Peptic Ulcer Disease",
+      "keywords": []
+    },
+    {
+      "type": "Interactive Case Study",
+      "class": "Pharmacology",
+      "title": "Pharmacologic Treatment of Diabetes",
+      "keywords": []
+    },
+    {
+      "type": "CCC Page",
+      "title": "Chapter 01: The NurseThink\u00ae Way of Thinking",
+      "keywords": []
+    },
+    {
+      "type": "CCC Page",
+      "title": "Chapter 02: Next Gen Clinical Judgment",
+      "keywords": []
+    },
+    {
+      "type": "CCC Page",
+      "title": "Chapter 03: Unfolding Concepts I",
+      "keywords": []
+    },
+    {
+      "type": "CCC Page",
+      "title": "Chapter 04: Unfolding Concepts II",
+      "keywords": []
+    },
+    {
+      "type": "CCC Page",
+      "title": "Chapter 05: Sexuality",
+      "keywords": []
+    },
+    {
+      "type": "CCC Page",
+      "title": "Chapter 06: Circulation",
+      "keywords": []
+    },
+    {
+      "type": "CCC Page",
+      "title": "Chapter 07: Protection",
+      "keywords": []
+    },
+    {
+      "type": "CCC Page",
+      "title": "Chapter 08: Homeostasis",
+      "keywords": []
+    },
+    {
+      "type": "CCC Page",
+      "title": "Chapter 09: Respiration",
+      "keywords": []
+    },
+    {
+      "type": "CCC Page",
+      "title": "Chapter 10: Regulation",
+      "keywords": []
+    },
+    {
+      "type": "CCC Page",
+      "title": "Chapter 11: Nutrition",
+      "keywords": []
+    },
+    {
+      "type": "CCC Page",
+      "title": "Chapter 12: Hormonal",
+      "keywords": []
+    },
+    {
+      "type": "CCC Page",
+      "title": "Chapter 13: Movement",
+      "keywords": []
+    },
+    {
+      "type": "CCC Page",
+      "title": "Chapter 14: Comfort",
+      "keywords": []
+    },
+    {
+      "type": "CCC Page",
+      "title": "Chapter 15: Adaptation",
+      "keywords": []
+    },
+    {
+      "type": "CCC Page",
+      "title": "Chapter 16: Emotion",
+      "keywords": []
+    },
+    {
+      "type": "CCC Page",
+      "title": "Chapter 17: Cognition",
+      "keywords": []
+    },
+    {
+      "type": "CCC Page",
+      "title": "Chapter 18: Multi-Concept Client",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Pages 3, 4 1111 (Ref: Professional Nursing Practice (Nursing Process))",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Pages 99, 101 22 (Ref: Health Education and Health Promotion)",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Pages 81, 83, 85 3 (Ref: Adult Health & Cultural Assessment)",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Pages 11, 215 444 (Ref: Stress and Inflammatory Responses)",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Page 115 5 (Ref: Disability and Chronic Illness)",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Pages 25, 107 66 (Ref: Management of the Older Adult (Alzheimer\u2019s, Abuse))",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Pages 111, 113, 115 7 (Ref: Pain Management)",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Pages 141, 151\u2013163 8 (Ref: Fluid and Electrolytes)",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Page 259 9 (Ref: Fluid and Electrolytes)",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Page 371 10 (Ref: Fluid and Electrolytes)",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Page 373 11 (Ref: Fluid and Electrolytes)",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Page 59 12 (Ref: Fluid and Electrolytes)",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Page 335 13 (Ref: Fluid and Electrolytes)",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Page 171 14 (Ref: Fluid and Electrolytes)",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Page 325 15 (Ref: Fluid and Electrolytes)",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Pages 57, 439 1616 (Ref: Fluid and Electrolytes)",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Pages 165, 421 1717 (Ref: Fluid and Electrolytes)",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Page 437 18 (Ref: Nursing Process & Patient Safety (Medication Admin))",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Page 135 19 (Ref: Antidepressant Agents)",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Page 195 20 (Ref: Antiseizure Agents)",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Page 191 21 (Ref: Antiparkinsonism Agents)",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Pages 111, 113 22 (Ref: Opioid Agonists (Pain Management))",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Pages 347, 349 23 (Ref: Pituitary Agents (Diabetes Insipidus / SIADH))",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Pages 317, 319 24 (Ref: Adrenocortical Agents (Addison's / Cushing's))",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Pages 343, 345, 351, 353 25 (Ref: Thyroid and Parathyroid Agents)",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Pages 335, 337 26 (Ref: Agents for Blood Glucose (Insulin))",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Page 67 27 (Ref: Drugs Affecting Blood Pressure (Hypertension))",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Page 65 28 (Ref: Agents for Heart Failure)",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Page 61 29 (Ref: Antianginal Agents (Atherosclerosis))",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Page 51 30 (Ref: Drugs Affecting Blood Coagulation)",
+      "keywords": []
+    },
+    {
+      "type": "The Notebook",
+      "title": "Notebook Page 271 31 (Ref: Drugs Used to Treat Anemias)",
+      "keywords": []
+    },
+    {
+      "type": "Client Census",
+      "title": "Avery Dawson (26 Years) - Safety | Medication Administration NCLEX\u00ae RN Client Needs \u2013Pharmacological and Parenteral",
+      "keywords": []
+    }
+  ]
+}
